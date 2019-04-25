@@ -1,0 +1,191 @@
+date,index,location,location2,Grid,Plot,Way Point,GPS used,Tag #,Species,Ht (cm),Diameter stem 1,Diameter stem 2,Diameter stem 3,Diameter stem 4,Diameter stem 5,Diameter stem 6,Diameter stem 7,Diameter stem 8,# of stems,%,Age,Respr,% circum,Add circum,< 3m %,Age,% Regrow,Borers %,Fire (y/n),Toppled (y/n),Respr,Elephant (y/n),Alive (y/n),notes,Data entered by
+5-Jun-16,1,Kruger National Park,Lower sabie,1,1,63,Yellow,,Phylonoptera violaceae,520,15.9,24.3,0,0,0,0,0,0,5,17,O,N,80,90,50,O,5,4,N,N,N,Y,Y,,Tembeka
+5-Jun-16,2,Kruger National Park,Lower sabie,1,1,64,Yellow,,Phylonoptera violaceae,520,20.1,0,0,0,0,0,0,0,5,15,O,N,90,95,60,O,8,1,N,N,N,Y,Y,,Tembeka
+5-Jun-16,3,Kruger National Park,Lower sabie,1,1,65,NI,,Acacia nigrescens,520,14.6,7.1,5,6.7,0,0,0,0,5,5,O,N,10,8,0,O,4,15,Y,N,N,Y,Y,,Tembeka
+5-Jun-16,4,Kruger National Park,Lower sabie,1,1,66,Yellow,,Acacia nigrescens,530,24.6,0,0,0,0,0,0,0,5,35,O,N,65,80,20,O,4,2,Y,N,N,Y,Y,,Tembeka
+5-Jun-16,5,Kruger National Park,Lower sabie,1,1,67,NI,,Acacia nigrescens,550,12.6,12.5,0,0,0,0,0,0,5,25,O,N,0,0,0,N/A,N/A,N/A,Y,N,N,N,Y,,Tembeka
+5-Jun-16,6,Kruger National Park,Lower sabie,1,1,68,NI,,Phylonoptera violaceae,530,17.9,0,0,0,0,0,0,0,5,5,O,N,30,50,50,O,7,0,N,N,N,Y,Y,,Tembeka
+5-Jun-16,7,Kruger National Park,Lower sabie,1,1,69,Yellow,,Phylonoptera violaceae,520,19.5,0,0,0,0,0,0,0,5,5,O,N,50,55,12,O,95,0,N,N,N,Y,Y,,Tembeka
+5-Jun-16,8,Kruger National Park,Lower sabie,1,1,71,NI,,Acacia nigrescens,600,19.5,9.6,0,0,0,0,0,0,5,18,O,N,3,3,3,O,2,0,Y,N,N,Y,Y,,Tembeka
+5-Jun-16,9,Kruger National Park,Lower sabie,1,1,72,NI,,Acacia nigrescens,540,31.3,0,0,0,0,0,0,0,5,50,O,N,8,15,15,O,9,50,Y,N,N,Y,Y,,Tembeka
+5-Jun-16,10,Kruger National Park,Lower sabie,1,1,74,NI,,Acacia nigrescens,500,15.2,0,0,0,0,0,0,0,5,5,O,N,3,6,6,O,5,0,Y,N,N,Y,Y,,Tembeka
+5-Jun-16,11,Kruger National Park,Lower sabie,1,1,None,NI,,Acacia nigrescens,510,11.3,6.4,0,0,0,0,0,0,5,20,O,N,5,11.5,11.5,O,83,3,Y,N,N,Y,Y,,Tembeka
+5-Jun-16,12,Kruger National Park,Lower sabie,1,2,70,Yellow,,Acacia nigrescens,520,13.6,9,0,0,0,0,0,0,5,25,O,N,30,40,7,O,7,1,Y,N,N,Y,Y,,Tembeka
+5-Jun-16,13,Kruger National Park,Lower sabie,1,2,73,Yellow,,Acacia nigrescens,600,15.7,12.8,9.3,0,0,0,0,0,5,70,N,N,35,56,5,O,30,1,Y,N,N,Y,Y,,Tembeka
+5-Jun-16,14,Kruger National Park,Lower sabie,1,2,75,Yellow,,Acacia nigrescens,650,13.4,15.9,0,0,0,0,0,0,5,10,O,N,15,25,5,O,2,0,N,N,N,Y,Y,,Tembeka
+5-Jun-16,15,Kruger National Park,Lower sabie,1,2,76,NI,,Acacia nigrescens,600,25.6,0,0,0,0,0,0,0,5,10,O,N,0,0,0,N/A,N/A,N/A,N,N,N,Y,Y,,Tembeka
+5-Jun-16,16,Kruger National Park,Lower sabie,1,2,79,NI,,Acacia nigrescens,525,14.3,0,0,0,0,0,0,0,5,15,O,N,7,14,14,O,50,5,Y,N,N,Y,Y,,Tembeka
+5-Jun-16,17,Kruger National Park,Lower sabie,1,2,80,NI,,Acacia nigrescens,650,20.3,0,0,0,0,0,0,0,5,2,O,N,80,80,80,O,2,20,Y,N,N,Y,Y,,Tembeka
+5-Jun-16,18,Kruger National Park,Lower sabie,1,2,82,NI,,Acacia nigrescens,750,Dead,0,0,0,0,0,0,0,4,0,N/A,N/A,0,0,0,N/A,N/A,N/A,N,Y,N,Y,N,,Tembeka
+5-Jun-16,19,Kruger National Park,Lower sabie,1,2,83,NI,,Acacia nigrescens,520,Dead,0,0,0,0,0,0,0,4,100,O,N,25,25,25,O,5,35,Y,N,N,Y,Y,,Tembeka
+5-Jun-16,20,Kruger National Park,Lower sabie,1,2,84,NI,,Sclerocarya birrea,110,64.6,0,0,0,0,0,0,0,5,30,O,Y,90,97,97,O,5,70,N,N,N,Y,Y,,Tembeka
+5-Jun-16,21,Kruger National Park,Lower sabie,1,2,85,Yellow,,Acacia nigrescens,520,2.2,0,0,0,0,0,0,0,5,7,O,N,0,0,0,N/A,N/A,N/A,N,N,N,N,Y,,Tembeka
+5-Jun-16,22,Kruger National Park,Lower sabie,1,2,86,Yellow,,Acacia nigrescens,560,24.1,0,0,0,0,0,0,0,5,20,O,N,0,0,0,N/A,N/A,N/A,Y,N,N,N,Y,,Tembeka
+5-Jun-16,23,Kruger National Park,Lower sabie,1,2,87,Yellow,,Bolusanthus speciosus,510,14.5,0,0,0,0,0,0,0,5,0,N/A,N/A,20,15,20,O,0,5,Y,N,N,Y,Y,Follow up on species (Ellies),Tembeka
+5-Jun-16,24,Kruger National Park,Lower sabie,1,2,87,NI,,Sclerocarya birrea,112,Dead,0,0,0,0,0,0,0,4,100,O,N,0,0,0,N/A,N/A,N/A,Y,N,N,Y,N,Confirm species name,Tembeka
+5-Jun-16,25,Kruger National Park,Lower sabie,1,2,88,NI,,Acacia nigrescens,600,23.1,0,0,0,0,0,0,0,5,100,O,N,0,0,0,N/A,N/A,80,N,N,N,Y,N,,Tembeka
+5-Jun-16,26,Kruger National Park,Lower sabie,1,2,90,Yellow,,Acacia nigrescens,610,33.4,0,0,0,0,0,0,0,5,5,O,N,10,30,20,O,100,0,Y,N,N,Y,Y,,Tembeka
+5-Jun-16,27,Kruger National Park,Lower sabie,1,2,91,NI,,Acacia nigrescens,740,33.5,0,0,0,0,0,0,0,5,90,O,N,3,3,3,O,0,0.5,Y,N,N,Y,Y,,Tembeka
+5-Jun-16,28,Kruger National Park,Lower sabie,1,2,92,NI,,Acacia nigrescens,620,15.9,9.9,0,0,0,0,0,0,5,15,O,N,0,0,0,N/A,N/A,3,Y,N,N,Y,Y,,Tembeka
+5-Jun-16,29,Kruger National Park,Lower sabie,1,2,94,Yellow,,Acacia nigrescens,520,13.1,11.1,0,0,0,0,0,0,5,35,O,N,5,7,2,O,80,0,Y,N,N,Y,Y,,Tembeka
+5-Jun-16,30,Kruger National Park,Lower sabie,1,2,77/78,Yellow,,Acacia nigrescens,650,18.1,0,0,0,0,0,0,0,5,0,N/A,N/A,50,80,30,O,0,15,Y,N,N,Y,Y,,Tembeka
+5-Jun-16,31,Kruger National Park,Lower sabie,1,3,95,NI,,Acacia nigrescens,650,14.8,0,0,0,0,0,0,0,5,20,O,N,80,83,0,O,0,5,Y,Y,Y,Y,Y,Follow up on species name,Tembeka
+5-Jun-16,32,Kruger National Park,Lower sabie,1,3,96,Yellow,,Phylonoptera violaceae,600,24.3,0,0,0,0,0,0,0,5,10,O,N,50,65,35,O,90,2,N,N,N,Y,Y,,Tembeka
+5-Jun-16,33,Kruger National Park,Lower sabie,1,3,98,NI,,Acacia nigrescens,520,15,0,0,0,0,0,0,0,5,100,O,N,30,31,0,O,0,80,Y,N,N,Y,Y,,Tembeka
+5-Jun-16,34,Kruger National Park,Lower sabie,1,3,99,NI,,Acacia nigrescens,550,13,0,0,0,0,0,0,0,5,4,O,N,25,25,0,O,2,2,Y,N,N,Y,Y,,Tembeka
+5-Jun-16,35,Kruger National Park,Lower sabie,1,3,100,Yellow,,Acacia nigrescens,520,19.7,0,0,0,0,0,0,0,5,10,O,N,5,15,4,O,5,0,Y,N,N,Y,Y,,Tembeka
+5-Jun-16,36,Kruger National Park,Lower sabie,1,3,101,Yellow,,Combretum imberbe,610,22.1,0,0,0,0,0,0,0,5,12,O,N,28,50,15,O,0,3,Y,N,N,Y,Y,,Tembeka
+5-Jun-16,37,Kruger National Park,Lower sabie,1,4,102,NI,,Acacia nigrescens,530,16.8,0,0,0,0,0,0,0,5,5,O,N,0,0,0,N/A,N/A,3,Y,N,N,Y,Y,,Tembeka
+5-Jun-16,38,Kruger National Park,Lower sabie,1,4,104,NI,,Acacia nigrescens,550,22.5,0,0,0,0,0,0,0,5,10,O,N,40,40,0,O,2,3,Y,N,N,Y,Y,,Tembeka
+5-Jun-16,39,Kruger National Park,Lower sabie,1,5,105,NI,,Acacia nigrescens,600,15.2,8.6,8.1,0,0,0,0,0,5,15,O,N,0,0,0,N/A,N/A,3,Y,N,N,Y,Y,,Tembeka
+5-Jun-16,40,Kruger National Park,Lower sabie,1,5,106,NI,,Acacia nigrescens,660,18.5,0,0,0,0,0,0,0,5,100,O,N,0,0,0,N/A,N/A,N/A,N,N,N/A,N,N,,Tembeka
+5-Jun-16,41,Kruger National Park,Lower sabie,1,5,107,NI,,Acacia nigrescens,550,24.5,0,0,0,0,0,0,0,5,5,O,N,15,50,0,O,5,5,Y,N,N,Y,Y,,Tembeka
+5-Jun-16,42,Kruger National Park,Lower sabie,1,5,108,NI,,Acacia nigrescens,610,36,0,0,0,0,0,0,0,5,7,O,N,40,55,0,O,0.5,2,Y,N,N,Y,Y,,Tembeka
+5-Jun-16,43,Kruger National Park,Lower sabie,1,5,109,NI,,Acacia nigrescens,520,24.2,0,0,0,0,0,0,0,5,45,O,N,60,60,0,O,3,70,Y,N,N,Y,Y,,Tembeka
+5-Jun-16,44,Kruger National Park,Lower sabie,1,5,110,NI,,Acacia nigrescens,600,18,0,0,0,0,0,0,0,5,5,O,N,0,0,0,N/A,N/A,3,Y,N,N,Y,Y,,Tembeka
+5-Jun-16,45,Kruger National Park,Lower sabie,1,5,111,NI,,Acacia nigrescens,550,22.1,0,0,0,0,0,0,0,5,3,O,N,10,15,0,O,70,10,Y,N,N,Y,Y,,Tembeka
+5-Jun-16,46,Kruger National Park,Lower sabie,1,5,112,NI,,Acacia nigrescens,620,19.8,15.2,0,0,0,0,0,0,5,45,O,N,0,0,0,N/A,N/A,3,Y,N,N,Y,Y,,Tembeka
+5-Jun-16,47,Kruger National Park,Lower sabie,1,6,60,OTS6,,Acacia nigrescens,600,16.8,13,13.5,5.3,0,0,0,0,5,12,O,Y,40,55,10,O,20,20,Y,N,Y,Y,Y,,Tembeka
+5-Jun-16,48,Kruger National Park,Lower sabie,1,7,61,OTS6,,Acacia nigrescens,530,18.3,10.5,0,0,0,0,0,0,5,10,O,N,5,8,3,O,70,2,Y,N,N,Y,Y,,Tembeka
+5-Jun-16,49,Kruger National Park,Lower sabie,1,9,62,OTS6,,Acacia nigrescens,510,15,11.7,25.1,0,0,0,0,0,5,8,O,N,45,50,8,O,12,25,Y,N,N,Y,Y,,Tembeka
+5-Jun-16,50,Kruger National Park,Lower sabie,1,9,113,NI,,Acacia nigrescens,530,29.8,0,0,0,0,0,0,0,5,30,O,N,10,10,0,O,2,7,Y,N,N,Y,Y,,Tembeka
+5-Jun-16,51,Kruger National Park,Lower sabie,1,9,114,NI,,Acacia nigrescens,550,45.1,0,0,0,0,0,0,0,5,15,O,N,40,75,0,O,3,10,Y,N,N,Y,Y,,Tembeka
+5-Jun-16,52,Kruger National Park,Lower sabie,1,9,115,NI,,Acacia nigrescens,510,42,0,0,0,0,0,0,0,5,10,O,N,0,0,0,N/A,N/A,3,Y,N,N,Y,Y,,Tembeka
+5-Jun-16,53,Kruger National Park,Lower sabie,2,10,1446,Laurence's yellow gps,1284,Sclerocarya birrea,1200,60.5,0,0,0,0,0,0,0,1,5,O,Y,20,80,50,O,85,90,N,N,N,Y,Y,,ali
+5-Jun-16,54,Kruger National Park,Lower sabie,2,11,1447,Laurence's yellow gps,,Acacia nigrescens,510,12.5,8.5,0,0,0,0,0,0,2,2,O,Y,15,17,7,O,36,22,N,N,N,Y,Y,,ali
+5-Jun-16,55,Kruger National Park,Lower sabie,2,19 (exclosure),1438,Laurence's yellow gps,,Sclerocarya birrea,800,30,28,0,0,0,0,0,0,2,100,O,N,12,22,7,O,0,50,N,Y,Y,Y,N,,ali
+5-Jun-16,56,Kruger National Park,Lower sabie,2,19 (exclosure),1439,Laurence's yellow gps,,Sclerocarya birrea,500,25.7,0,0,0,0,0,0,0,1,35,O,Y,15,24,5,O,0,50,Y,N,N/A,Y,Y,,ali
+5-Jun-16,57,Kruger National Park,Lower sabie,2,19 (exclosure),1440,Laurence's yellow gps,,Acacia nigrescens,950,33.2,0,0,0,0,0,0,0,1,15,O,Y,0,0,0,N/A,N/A,N/A,Y,N,N/A,Y,Y,,ali
+5-Jun-16,58,Kruger National Park,Lower sabie,2,19 (exclosure),1441,Laurence's yellow gps,,Acacia nigrescens,700,22,0,0,0,0,0,0,0,1,100,O,N,45,47,10,O,70,5,N,Y,N,N,N,,ali
+5-Jun-16,59,Kruger National Park,Lower sabie,2,19 (exclosure),1442,Laurence's yellow gps,,Acacia nigrescens,1100,40,0,0,0,0,0,0,0,1,7,O,N,0,0,0,N/A,N/A,N/A,N,N,N/A,Y,Y,,ali
+5-Jun-16,60,Kruger National Park,Lower sabie,2,19 (exclosure),1443,Laurence's yellow gps,,Sclerocarya birrea,650,22,22.5,0,0,0,0,0,0,2,98,O,Y,0,0,0,N/A,N/A,80,N,N,N/A,Y,Y,,ali
+5-Jun-16,61,Kruger National Park,Lower sabie,2,19 (exclosure),1444,Laurence's yellow gps,,Acacia grandicornuta,600,18,0,0,0,0,0,0,0,1,100,O,Y,25,25,10,O,0,,N,N,N/A,Y,Y,,ali
+5-Jun-16,62,Kruger National Park,Lower sabie,2,19 (exclosure),1445,Laurence's yellow gps,,Acacia nigrescens,700,17.2,0,0,0,0,0,0,0,1,100,O,N,0,0,0,N/A,N/A,N/A,N,N,N/A,Y,N,,ali
+5-Jun-16,63,Kruger National Park,Lower sabie,2,19 (exclosure),1448,Laurence's yellow gps,,Acacia nigrescens,900,22,0,0,0,0,0,0,0,1,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N,Y,N,Y,N,,ali
+5-Jun-16,64,Kruger National Park,Lower sabie,2,19 (exclosure),1449,Laurence's yellow gps,,Acacia nigrescens,800,30,0,0,0,0,0,0,0,1,100,N,N,N/A,N/A,N/A,N/A,N/A,N/A,N,N,N/A,Y,Y,,ali
+5-Jun-16,65,Kruger National Park,Lower sabie,2,19 (exclosure),1450,Laurence's yellow gps,,Acacia nigrescens,800,33,0,0,0,0,0,0,0,1,100,O,N,N/A,N/A,N/A,N/A,N/A,N/A,N,N,N/A,Y,N,,ali
+5-Jun-16,66,Kruger National Park,Lower sabie,2,19 (exclosure),1451,Laurence's yellow gps,,Acacia nigrescens,900,40,0,0,0,0,0,0,0,1,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N,Y,N,Y,N,,ali
+5-Jun-16,67,Kruger National Park,Lower sabie,2,19 (exclosure),1452,Laurence's yellow gps,,Acacia nigrescens,900,45,0,0,0,0,0,0,0,1,100,O,N,N/A,N/A,N/A,N/A,N/A,N/A,N,N,N/A,Y,N,,ali
+5-Jun-16,68,Kruger National Park,Lower sabie,2,19 (exclosure),1453,Laurence's yellow gps,,Acacia nigrescens,1100,39.6,0,0,0,0,0,0,0,1,47,O,Y,N/A,N/A,N/A,N/A,N/A,N/A,N,N,N/A,Y,N,,ali
+5-Jun-16,69,Kruger National Park,Lower sabie,2,19 (exclosure),1454,Laurence's yellow gps,,Acacia nigrescens,950,35,0,0,0,0,0,0,0,1,100,N,N,N/A,N/A,N/A,N/A,N/A,N/A,N,N,N/A,Y,N,,ali
+5-Jun-16,70,Kruger National Park,Lower sabie,2,19 (exclosure),1455,Laurence's yellow gps,,Acacia nigrescens,1000,30,0,0,0,0,0,0,0,1,100,N,N,N/A,N/A,N/A,N/A,N/A,N/A,N,N,N/A,Y,Y,,ali
+5-Jun-16,71,Kruger National Park,Lower sabie,2,19 (exclosure),1456,Laurence's yellow gps,,Acacia nigrescens,1050,30.5,0,0,0,0,0,0,0,1,100,N,N,N/A,N/A,N/A,N/A,N/A,N/A,N,N,N/A,Y,Y,,ali
+5-Jun-16,72,Kruger National Park,Lower sabie,2,19 (exclosure),1457,Laurence's yellow gps,,Acacia nigrescens,980,36,0,0,0,0,0,0,0,1,10,N,N,N/A,N/A,N/A,N/A,N/A,N/A,N,N,N/A,Y,Y,,ali
+5-Jun-16,73,Kruger National Park,Lower sabie,2,19 (exclosure),1458,Laurence's yellow gps,646,Sclerocarya birrea,650,18.5,0,0,0,0,0,0,0,1,100,N,Y,N/A,N/A,N/A,N/A,N/A,N/A,N,N,N/A,Y,Y,,ali
+5-Jun-16,74,Kruger National Park,Lower sabie,2,19 (exclosure),1459,Laurence's yellow gps,,Lannea schweinfurthii,1150,30,22,18,0,0,0,0,0,3,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N,Y,Y,Y,Y,,ali
+5-Jun-16,75,Kruger National Park,Lower sabie,2,19 (exclosure),1473,Laurence's yellow gps,,Acacia nigrescens,1100,41.8,0,0,0,0,0,0,0,1,5,O,N,10,18,5,O,90,855,Y,N,N/A,Y,Y,,ali
+28-May-16,76,Kruger National Park,Lower sabie,3,21,57,NI,,Sclerocarya birrea,1200,49.2,0,0,0,0,0,0,0,1,0,N/A,N/A,0,0,0,N/A,N/A,N/A,N,N,N,N,Y,,Tsego
+28-May-16,77,Kruger National Park,Lower sabie,3,22,47,NI,,Acacia nigrescens,570,21.3,0,0,0,0,0,0,0,1,5,O,N,15,15,7,O,3,50,Y,N,N,Y,Y,,Tsego
+28-May-16,78,Kruger National Park,Lower sabie,3,22,48,NI,,Acacia nigrescens,570,29.1,0,0,0,0,0,0,0,2,3,O,N,35,53,18,O,55,20,Y,N,N,Y,Y,,Tsego
+28-May-16,79,Kruger National Park,Lower sabie,3,22,49,NI,,Combretum imberbe,900,48.8,0,0,0,0,0,0,0,0,0,N/A,N/A,0,0,0,N/A,N/A,N/A,N,N,N/A,N,Y,,Tsego
+28-May-16,80,Kruger National Park,Lower sabie,3,22,50,NI,,Acacia nigrescens,620,24.4,0,0,0,0,0,0,0,1,4,O,N,45,45,25,O,70,2,Y,N,N,Y,Y,,Tsego
+28-May-16,81,Kruger National Park,Lower sabie,3,22,51,NI,,Acacia nigrescens,650,37.3,0,0,0,0,0,0,0,2,4,O,N,0,0,0,N/A,N/A,N/A,N,N,N/A,N,Y,,Tsego
+28-May-16,82,Kruger National Park,Lower sabie,3,22,52,NI,,Acacia nigrescens,610,20.8,0,0,0,0,0,0,0,1,4,O,N,0,0,0,N/A,N/A,N/A,N,N,N/A,N,Y,,Tsego
+28-May-16,83,Kruger National Park,Lower sabie,3,22,53,NI,,Acacia nigrescens,610,16.5,0,0,0,0,0,0,0,1,7,O,N,0,0,0,N/A,N/A,N/A,N,N,N/A,N,Y,,Tsego
+28-May-16,84,Kruger National Park,Lower sabie,3,22,54,NI,,Combretum imberbe,550,16.6,0,0,0,0,0,0,0,2,10,O,N,20,23,11,O,1,15,Y,N,N,Y,Y,,Tsego
+28-May-16,85,Kruger National Park,Lower sabie,3,22,55,NI,,Combretum imberbe,540,12.7,0,0,0,0,0,0,0,4,15,O,N,12,27,10,O,0,0,Y,N,N,Y,Y,,Tsego
+28-May-16,86,Kruger National Park,Lower sabie,3,22,56,NI,,Combretum imberbe,620,12,0,0,0,0,0,0,0,4,10,O,N,15,18,20,O,0,3,Y,N,N,Y,Y,,Tsego
+28-May-16,87,Kruger National Park,Lower sabie,3,23,40,NI,,Sclerocarya birrea,510,59.6,0,0,0,0,0,0,0,1,5,O,N,25,65,35,O,35,5,N,N,N,Y,Y,,Tsego
+28-May-16,88,Kruger National Park,Lower sabie,3,23,41,NI,,Acacia nigrescens,550,30.5,0,0,0,0,0,0,0,3,15,O,N,11,20,15,O,70,6,Y,N,N,Y,Y,,Tsego
+28-May-16,89,Kruger National Park,Lower sabie,3,23,42,NI,,Acacia nigrescens,620,15.8,0,0,0,0,0,0,0,1,6,O,N,0,0,0,N/A,N/A,N/A,N,N,N/A,N,Y,,Tsego
+28-May-16,90,Kruger National Park,Lower sabie,3,23,43,NI,,Acacia nigrescens,510,24.3,0,0,0,0,0,0,0,1,50,O,N,20,52,20.2,O,10,50,Y,N,N,Y,Y,,Tsego
+28-May-16,91,Kruger National Park,Lower sabie,3,23,44,NI,,Acacia nigrescens,510,12,0,0,0,0,0,0,0,1,7,O,N,45,45,41,O,95,11,Y,N,N,Y,Y,,Tsego
+28-May-16,92,Kruger National Park,Lower sabie,3,23,45,NI,,Combretum imberbe,1000,28.6,0,0,0,0,0,0,0,1,0,N/A,N/A,0,0,0,N/A,N/A,N/A,N,N,N/A,N,Y,,Tsego
+28-May-16,93,Kruger National Park,Lower sabie,3,23,46,NI,,Acacia nigrescens,730,44,0,0,0,0,0,0,0,4,100,N,Y,12.5,40,20,O,60,50,Y,N,N,Y,Y,,Tsego
+28-May-16,94,Kruger National Park,Lower sabie,3,25,58,NI,,Acacia nigrescens,1130,62.4,0,0,0,0,0,0,0,1,20,O,N,50,55,50,O,4,20,Y,N,N,Y,Y,,Tsego
+28-May-16,95,Kruger National Park,Lower sabie,3,26,33,NI,,Acacia nigrescens,500,19,0,0,0,0,0,0,0,1,3,O,N,15,21,2,O,0,6,Y,N,N,Y,Y,,Tsego
+28-May-16,96,Kruger National Park,Lower sabie,3,26,34,NI,,Acacia nigrescens,500,23.5,0,0,0,0,0,0,0,3,55,N,N,20,22,5,O,85,10,Y,N,N,Y,Y,,Tsego
+28-May-16,97,Kruger National Park,Lower sabie,3,28,35,NI,,Acacia nigrescens,520,14.3,0,0,0,0,0,0,0,1,15,O,N,10,11,3,O,0,3,Y,N,N,Y,Y,,Tsego
+28-May-16,98,Kruger National Park,Lower sabie,3,28,36,NI,,Acacia nigrescens,580,25,0,0,0,0,0,0,0,2,5,O,N,3,8,3.5,O,0,0,Y,N,N,Y,Y,,Tsego
+28-May-16,99,Kruger National Park,Lower sabie,3,28,39,NI,,Acacia nigrescens,520,55.3,0,0,0,0,0,0,0,1,45,O,N,17,50,35,O,60,40,N,N,N,Y,Y,,Tsego
+23-May-16,100,Kruger National Park,Lower Sabie,4,29,"A,NIG1",orange,,Acacia nigrescens,500,29.5,0,0,0,0,0,0,0,1,7,O,N,3,4,1,O,2,4,N,N,N,N,Y,,Kele
+23-May-16,101,Kruger National Park,Lower Sabie,4,29,"A,NIG2",orange,,Acacia nigrescens,550,32.3,0,0,0,0,0,0,0,1,55,N,N,15,49,20,O,26,6,N,N,N,Y,Y,,Kele
+23-May-16,102,Kruger National Park,Lower Sabie,4,30,"A,NIG18",orange,,Acacia nigrescens,580,28.4,0,0,0,0,0,0,0,1,16,O,N,30,34,34,O,4,5,Y,N,N,Y,Y,,Kele
+23-May-16,103,Kruger National Park,Lower Sabie,4,31,"A,NIG16",orange,,Acacia nigrescens,580,13,14.1,0,0,0,0,0,0,2,15,O,N,10,13,11,O,2,2,Y,N,N,Y,Y,,Kele
+23-May-16,104,Kruger National Park,Lower Sabie,4,31,"A,NIG17",orange,,Acacia nigrescens,650,31.5,0,0,0,0,0,0,0,1,18,O,N,45,23,18,O,3,3,Y,N,N,Y,Y,,Kele
+23-May-16,105,Kruger National Park,Lower Sabie,4,33,"A,NIG11",orange,,Acacia nigrescens,520,25.2,0,0,0,0,0,0,0,1,100,O,Y,60,63,35,O,0,6,N,N,N,Y,Y,,Kele
+23-May-16,106,Kruger National Park,Lower Sabie,4,33,"A,NIG12",orange,,Acacia nigrescens,520,14.5,0,0,0,0,0,0,0,1,20,O,Y,0,0,0,N/A,N/A,N/A,N,N,N,N,Y,,Kele
+23-May-16,107,Kruger National Park,Lower Sabie,4,33,"A,NIG13",orange,,Acacia nigrescens,520,37.5,0,0,0,0,0,0,0,1,45,O,N,0,0,0,N/A,N/A,N/A,N,N,N,Y,Y,,Kele
+23-May-16,108,Kruger National Park,Lower Sabie,4,33,"A,NIG14",orange,,Acacia nigrescens,600,25.2,0,0,0,0,0,0,0,1,100,O,N,50,60,40,O,0,20,Y,Y,N,Y,N,,Kele
+23-May-16,109,Kruger National Park,Lower Sabie,4,33,"A,NIG15",orange,,Acacia nigrescens,520,41.5,0,0,0,0,0,0,0,1,20,O,N,10,12,10,O,0,10,Y,N,N,Y,Y,,Kele
+23-May-16,110,Kruger National Park,Lower Sabie,4,34,"A,NIG3",orange,,Acacia nigrescens,510,23,0,0,0,0,0,0,0,1,6,O,N,50,59,50,O,23,10,N,N,N,Y,Y,,Kele
+23-May-16,111,Kruger National Park,Lower Sabie,4,34,"A,NIG4",orange,,Acacia nigrescens,500,27,0,0,0,0,0,0,0,1,80,O,N,15,19,15,O,2,16,N,N,N,Y,Y,,Kele
+23-May-16,112,Kruger National Park,Lower Sabie,4,34,"A,NIG5",orange,,Acacia nigrescens,530,17.9,12.8,0,0,0,0,0,0,2,2,N,N,15,30,12,O,0,1,N,N,N,Y,Y,,Kele
+23-May-16,113,Kruger National Park,Lower Sabie,4,34,"A,NIG6",orange,,Acacia nigrescens,530,29,0,0,0,0,0,0,0,1,6,O,N,1,0,0.5,O,2,0,N,N,N,Y,Y,,Kele
+23-May-16,114,Kruger National Park,Lower Sabie,4,34,"A,NIG7",orange,,Acacia nigrescens,520,15.9,13,6,0,0,0,0,0,3,3,O,N,25,34,22,O,5,1,N,N,N,Y,Y,,Kele
+23-May-16,115,Kruger National Park,Lower Sabie,4,35,"S,BIR1",orange,,Sclerocarya birrea,520,27.2,0,0,0,0,0,0,0,1,75,O,N,0,0,0,N/A,N/A,N/A,N,N,N,Y,Y,,Kele
+23-May-16,116,Kruger National Park,Lower Sabie,4,37,"A,NIG9",orange,,Acacia nigrescens,510,14.8,0,0,0,0,0,0,0,1,7,O,N,40,43,5,O,5,10,N,N,N,Y,Y,,Kele
+23-May-16,117,Kruger National Park,Lower Sabie,4,37,"L,SWI1",orange,,Lannea schweinfurthii,780,69,0,0,0,0,0,0,0,1,100,O,N,0,0,0,N/A,N/A,N/A,N,N,N,Y,N,,Kele
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

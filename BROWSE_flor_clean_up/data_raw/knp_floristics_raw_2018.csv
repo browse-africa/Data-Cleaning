@@ -1,0 +1,919 @@
+index,date,formatted date,grid,plot,Tree tag,gps tag,gps used,side,zone,fixed area,Species,fixed ht cm,Diameter 1,Diameter 2,Diameter 3,Diameter 4,Diameter 5,# Stems,Breaking,Age,Resprout,strip Circumference,Additive circumferance,area <3m stripped,Age strip,Bark Regrowth,Borers,Fire,Toppled,Resprout,Ele?,Alive,data entered bY
+109,5/27/2018,27-May-18,1,1,OTS 0120,NA,NA,A,1,0 to 2,Ehrethia rigidia,31.5,0.33,0.33,0.33,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+110,5/27/2018,27-May-18,1,1,OTS 0119,NA,NA,A,1,0 to 2,Ehrethia rigidia,76,0.63,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+108,5/27/2018,27-May-18,1,1,OTS 0141,NA,NA,A,1,0 to 2,Dichrostachys cinerea,90,0.88,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+113,5/27/2018,27-May-18,1,1,OTS 0117,NA,NA,A,2,0 to 2,Flueggea virosa,102,0.10,0.55,0.55,0.70,0.51,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+111,5/27/2018,27-May-18,1,1,OTS 0118,NA,NA,A,2,0 to 2,Ehrethia rigidia,54,0.26,0.52,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+114,5/27/2018,27-May-18,1,1,OTS 0115,NA,NA,A,2,0 to 2,Ehrethia rigidia,71.7,0.33,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+112,5/27/2018,27-May-18,1,1,OTS 0116,NA,NA,A,2,0 to 2,Ehrethia rigidia,45,0.38,0.67,0.57,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+119,5/27/2018,27-May-18,1,1,OTS 0113,NA,NA,A,3,0 to 2,Boscia foetida,25,0.22,0.31,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+120,5/27/2018,27-May-18,1,1,OTS 0112,NA,NA,A,3,0 to 2,Boscia foetida,42,0.23,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+123,5/27/2018,27-May-18,1,1,394,NA,NA,A,3,0 to 2,Ehrethia rigidia,27,0.25,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+122,5/27/2018,27-May-18,1,1,392,NA,NA,A,3,0 to 2,Boscia foetida,44,0.39,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+117,5/27/2018,27-May-18,1,1,OTS 0110,NA,NA,A,3,0 to 2,Boscia foetida,24,0.40,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+125,5/27/2018,27-May-18,1,1,393,NA,NA,A,3,0 to 2,Ehrethia rigidia,70,0.45,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+116,5/27/2018,27-May-18,1,1,OTS 0109,NA,NA,A,3,0 to 2,Boscia foetida,40,0.48,0.29,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+124,5/27/2018,27-May-18,1,1,383,NA,NA,A,3,0 to 2,Boscia foetida,48,0.51,0.34,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+121,5/27/2018,27-May-18,1,1,301,NA,NA,A,3,0 to 2,Boscia foetida,56,0.52,0.30,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+118,5/27/2018,27-May-18,1,1,OTS 0111,NA,NA,A,3,0 to 2,Boscia foetida,51,0.54,0.52,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+115,5/27/2018,27-May-18,1,1,OTS 0114,NA,NA,A,3,0 to 2,Boscia foetida,50,0.57,0.28,0.27,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+129,5/27/2018,27-May-18,1,1,396,NA,NA,A,4,0 to 2,Boscia foetida,41,0.26,0.29,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+128,5/27/2018,27-May-18,1,1,382,NA,NA,A,4,0 to 2,Boscia foetida,40,0.28,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+130,5/27/2018,27-May-18,1,1,380,NA,NA,A,4,0 to 2,Ehrethia rigidia,19,0.41,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+127,5/27/2018,27-May-18,1,1,379,NA,NA,A,4,0 to 2,Dichrostachys cinerea,19,0.42,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+126,5/27/2018,27-May-18,1,1,386,NA,NA,A,4,0 to 2,Boscia foetida,66,0.70,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+131,5/27/2018,27-May-18,1,1,396,NA,NA,A,4,0 to 2,Commiphora schimperi,75,0.85,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+132,5/27/2018,27-May-18,1,1,391,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,150,1.51,1.37,1.60,1.30,2.10,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+133,5/27/2018,27-May-18,1,1,390,NA,NA,A,4,0 to 2,Ximemia americana,115,1.59,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+134,5/27/2018,27-May-18,1,1,389,NA,NA,A,4,0 to 2,Ximemia americana,170,1.62,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+24,27/05/2018,27-May-18,1,1,195,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,155,0.562,1.75,1.35,1.2,0.919,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+29,27/05/2018,27-May-18,1,1,191,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,71.1,0.72,2.009,1.633,,,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+26,27/05/2018,27-May-18,1,1,194,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,155,1.394,1.082,1.445,2.14,,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+28,27/05/2018,27-May-18,1,1,192,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,55.5,1.536,,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+27,27/05/2018,27-May-18,1,1,193,NA,NA,A,5,0 to 2,Ximemia americana,158,1.97,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+136,5/27/2018,27-May-18,1,1,387,NA,NA,A,5,0 to 2,Lannea schweinfurthii,140,2.26,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+135,5/27/2018,27-May-18,1,1,388,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,165,2.57,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+25,27/05/2018,27-May-18,1,1,196,NA,NA,A,5,0 to 2,Lannea schweinfurthii,152,10.531,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+5,5/26/2018,26-May-18,1,1,OTS 0101,OTS0101,OTS C,NA,NA,0 to 25,Senegalia nigrescens,500.00,12.9,12.9,,,,2,5,Old,N,0,0,0,NA,NA,NA,NA,N,NA,N,Y,melanie
+6,27/05/2018,27-May-18,1,1,197,NA,NA,A,3,2 to 10,Bolusanthus speciosus,430.00,10.355,11.222,,,,2,5,Old,N,35,3,35,Old,1,2,0,N,N,Y,Y,DannY
+5,27/05/2018,27-May-18,1,1,198,NA,NA,A ,2,2 to 10,Philenoptera violacea,420.00,14.113,15.49,,,,2,70,Old,N,70,0,70,Old,50,20,0,N,N,Y,Y,DannY
+1,27/05/2018,27-May-18,1,1,O144,NA,NA,B,2,2 to 10,Philenoptera violacea,300.00,3.669,6.767,9.657,9.744,,5,0,NA,N,40,25,35,Old,0,0,0,N,N,N,Y,DannY
+2,27/05/2018,27-May-18,1,1,O146,NA,NA,B,3,2 to 10,Gymnosporia senegalensis,250.00,3.267,2.475,2.637,5.263,,6,0,NA,N,0,0,0,NA,0,0,0,N,N,N,Y,DannY
+3,27/05/2018,27-May-18,1,1,199,NA,NA,B,4,2 to 10,Philenoptera violacea,250.00,2.852,4.132,2.174,10.66,,5,0,NA,N,35,0,35,Old,1,0,0,N,N,Y,Y,DannY
+4,27/05/2018,27-May-18,1,1,200,NA,NA,B,5,2 to 10,Philenoptera violacea,500.00,12.692,,,,,1,0,NA,N,15,7,15,Old,1,0,0,N,N,Y,Y,DannY
+137,5/27/2018,27-May-18,1,3,OTS 0137,NA,NA,A,1,0 to 2,Ehrethia rigidia,20,0.20,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+139,5/27/2018,27-May-18,1,3,OTS0139,NA,NA,A,1,0 to 2,Ormocarpum trichocarpum,28,0.24,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+144,5/27/2018,27-May-18,1,3,94,NA,NA,A,1,0 to 2,Ormocarpum trichocarpum,41,0.41,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+142,5/27/2018,27-May-18,1,3,95,NA,NA,A,1,0 to 2,Ormocarpum trichocarpum,34,0.44,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+141,5/27/2018,27-May-18,1,3,91,NA,NA,A,1,0 to 2,Ehrethia rigidia,45,0.49,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+138,5/27/2018,27-May-18,1,3,OTS 0138,NA,NA,A,1,0 to 2,Ormocarpum trichocarpum,42,0.70,0.42,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+146,5/27/2018,27-May-18,1,3,92,NA,NA,A,1,0 to 2,Ormocarpum trichocarpum,74,0.70,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+140,5/27/2018,27-May-18,1,3,97,NA,NA,A,1,0 to 2,Gymnosporia senegalensis,63,0.87,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+145,5/27/2018,27-May-18,1,3,99,NA,NA,A,1,0 to 2,Gymnosporia senegalensis,140,1.05,1.64,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+143,5/27/2018,27-May-18,1,3,98,NA,NA,A,1,0 to 2,Flueggea virosa,130,1.32,1.11,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+152,5/27/2018,27-May-18,1,3,370,NA,NA,A,2,0 to 2,Ormocarpum trichocarpum,49,0.10,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+153,5/27/2018,27-May-18,1,3,328,NA,NA,A,2,0 to 2,Ormocarpum trichocarpum,34,0.26,0.23,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+154,5/27/2018,27-May-18,1,3,368,NA,NA,A,2,0 to 2,Gymnosporia senegalensis,37,0.32,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+150,5/27/2018,27-May-18,1,3,100,NA,NA,A,2,0 to 2,Gymnosporia senegalensis,60,0.55,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+151,5/27/2018,27-May-18,1,3,369,NA,NA,A,2,0 to 2,Ormocarpum trichocarpum,47,0.66,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+155,5/27/2018,27-May-18,1,3,325,NA,NA,A,2,0 to 2,Gymnosporia senegalensis,64,0.66,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+157,5/27/2018,27-May-18,1,3,332,NA,NA,A,2,0 to 2,Gymnosporia senegalensis,20,0.76,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+149,5/27/2018,27-May-18,1,3,371,NA,NA,A,2,0 to 2,Ormocarpum trichocarpum,67,0.84,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+162,5/27/2018,27-May-18,1,3,365,NA,NA,A,2,0 to 2,Gymnosporia senegalensis,75,0.84,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+160,5/27/2018,27-May-18,1,3,367,NA,NA,A,2,0 to 2,Flueggea virosa,140,0.85,1.37,1.28,0.88,,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+147,5/27/2018,27-May-18,1,3,96,NA,NA,A,2,0 to 2,Gymnosporia senegalensis,120,1.05,1.02,1.39,0.63,,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+158,5/27/2018,27-May-18,1,3,330,NA,NA,A,2,0 to 2,Gymnosporia senegalensis,100,1.06,0.88,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+156,5/27/2018,27-May-18,1,3,331,NA,NA,A,2,0 to 2,Gymnosporia senegalensis,100,1.19,1.2,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+163,5/27/2018,27-May-18,1,3,364,NA,NA,A,2,0 to 2,Gymnosporia senegalensis,100,1.25,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+161,5/27/2018,27-May-18,1,3,366,NA,NA,A,2,0 to 2,Gymnosporia senegalensis,130,1.28,0.17,1.56,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+148,5/27/2018,27-May-18,1,3,93,NA,NA,A,2,0 to 2,Gymnosporia senegalensis,150,1.52,2.09,1.17,0.84,,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+159,5/27/2018,27-May-18,1,3,329,NA,NA,A,2,0 to 2,Gymnosporia senegalensis,190,2.29,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+166,5/27/2018,27-May-18,1,3,333,NA,NA,A,3,0 to 2,Ehrethia rigidia,37,0.12,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+168,5/27/2018,27-May-18,1,3,335,NA,NA,A,3,0 to 2,Commiphora schimperi,35,0.28,0.2,0.25,0.14,,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+165,5/27/2018,27-May-18,1,3,362,NA,NA,A,3,0 to 2,Ehrethia rigidia,29,0.29,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+170,5/27/2018,27-May-18,1,3,341,NA,NA,A,3,0 to 2,Ormocarpum trichocarpum,23,0.45,0.7,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+171,5/27/2018,27-May-18,1,3,342,NA,NA,A,3,0 to 2,Ormocarpum trichocarpum,59,0.49,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+169,5/27/2018,27-May-18,1,3,337,NA,NA,A,3,0 to 2,Ormocarpum trichocarpum,51,0.58,0.12,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+167,5/27/2018,27-May-18,1,3,334,NA,NA,A,3,0 to 2,Ormocarpum trichocarpum,81,0.70,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+164,5/27/2018,27-May-18,1,3,363,NA,NA,A,3,0 to 2,Gymnosporia senegalensis,61,0.87,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+172,5/27/2018,27-May-18,1,3,343,NA,NA,A,3,0 to 2,Ormocarpum trichocarpum,74,0.89,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+177,5/27/2018,27-May-18,1,3,358,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,26,0.21,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+173,5/27/2018,27-May-18,1,3,344,NA,NA,A,4,0 to 2,Ormocarpum trichocarpum,25,0.22,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+179,5/27/2018,27-May-18,1,3,339,NA,NA,A,4,0 to 2,Ormocarpum trichocarpum,43,0.34,0.31,0.72,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+187,5/27/2018,27-May-18,1,3,354,NA,NA,A,4,0 to 2,Ormocarpum trichocarpum,50,0.40,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+178,5/27/2018,27-May-18,1,3,336,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,50,0.49,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+174,5/27/2018,27-May-18,1,3,345,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,71,0.50,0.55,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+180,5/27/2018,27-May-18,1,3,347,NA,NA,A,4,0 to 2,Ormocarpum trichocarpum,55,0.51,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+175,5/27/2018,27-May-18,1,3,346,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,71,0.61,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+189,5/27/2018,27-May-18,1,3,355,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,73,0.67,0.46,0.52,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+185,5/27/2018,27-May-18,1,3,351,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,130,0.72,2.25,0.92,0.45,,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+182,5/27/2018,27-May-18,1,3,349,NA,NA,A,4,0 to 2,Ormocarpum trichocarpum,67,0.73,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+181,5/27/2018,27-May-18,1,3,348,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,100,0.76,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+184,5/27/2018,27-May-18,1,3,361,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,110,0.85,0.63,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+183,5/27/2018,27-May-18,1,3,350,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,100,1.02,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+176,5/27/2018,27-May-18,1,3,338,NA,NA,A,4,0 to 2,Ormocarpum trichocarpum,80,1.09,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+186,5/27/2018,27-May-18,1,3,353,NA,NA,A,4,0 to 2,Ormocarpum trichocarpum,50,1.15,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+188,5/27/2018,27-May-18,1,3,340,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,180,2.23,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+312,28-May,28-May-18,1,3,380,NA,NA,B,1,0 to 2,Gymnosporia senegalensis,82,1.07,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+310,28-May,28-May-18,1,3,306,NA,NA,B,1,0 to 2,Gymnosporia senegalensis,110,1.33,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+311,28-May,28-May-18,1,3,373,NA,NA,B,1,0 to 2,Gymnosporia senegalensis,150,1.96,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+313,28-May,28-May-18,1,3,305,NA,NA,B,1,0 to 2,Gymnosporia senegalensis,110,2.02,1.2,0.99,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+315,28-May,28-May-18,1,3,302,NA,NA,B,2,0 to 2,Gymnosporia senegalensis,110,0.17,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+320,28-May,28-May-18,1,3,308,NA,NA,B,2,0 to 2,Ormocarpum trichocarpum,89,0.43,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+318,28-May,28-May-18,1,3,384,NA,NA,B,2,0 to 2,Ormocarpum trichocarpum,70,0.54,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+328,28-May,28-May-18,1,3,375,NA,NA,B,2,0 to 2,Ormocarpum trichocarpum,70,0.6,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+317,28-May,28-May-18,1,3,381,NA,NA,B,2,0 to 2,Gymnosporia senegalensis,62,0.61,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+326,28-May,28-May-18,1,3,320,NA,NA,B,2,0 to 2,Gymnosporia senegalensis,120,0.88,1.2,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+322,28-May,28-May-18,1,3,303,NA,NA,B,2,0 to 2,Gymnosporia senegalensis,58,0.9,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+319,28-May,28-May-18,1,3,307,NA,NA,B,2,0 to 2,Gymnosporia senegalensis,79,1.03,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+323,28-May,28-May-18,1,3,317,NA,NA,B,2,0 to 2,Gymnosporia senegalensis,120,1.17,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+321,28-May,28-May-18,1,3,316,NA,NA,B,2,0 to 2,Gymnosporia senegalensis,110,1.43,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+316,28-May,28-May-18,1,3,378,NA,NA,B,2,0 to 2,Gymnosporia senegalensis,100,1.54,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+327,28-May,28-May-18,1,3,374,NA,NA,B,2,0 to 2,Philenoptera violacea,85,1.98,1.91,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+314,28-May,28-May-18,1,3,372,NA,NA,B,2,0 to 2,Gymnosporia senegalensis,120,2.15,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+325,28-May,28-May-18,1,3,395,NA,NA,B,2,0 to 2,Bolusanthus speciosus,130,3.02,3.21,1.69,3.17,,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+324,28-May,28-May-18,1,3,319,NA,NA,B,2,0 to 2,Bolusanthus speciosus,170,3.4,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+292,28-May,28-May-18,1,3,313,NA,NA,B,3,0 to 2,Ehretia rigida,64,0.51,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+291,28-May,28-May-18,1,3,324,NA,NA,B,3,0 to 2,Flueggea virosa,11,2,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+293,28-May,28-May-18,1,3,312,NA,NA,B,4,0 to 2,Ehretia rigida,69,0.53,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+297,28-May,28-May-18,1,3,311,NA,NA,B,4,0 to 2,Dichrostachys cinerea,46,0.62,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+299,28-May,28-May-18,1,3,400,NA,NA,B,4,0 to 2,Ormocarpum trichocarpum,49,0.68,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+294,28-May,28-May-18,1,3,398,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,82,0.91,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+298,28-May,28-May-18,1,3,310,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,19,1.44,1.73,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+296,28-May,28-May-18,1,3,315,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,93,1.59,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+295,28-May,28-May-18,1,3,399,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,11.5,1.97,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+300,28-May,28-May-18,1,3,321,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,12,3,1.68,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+301,28-May,28-May-18,1,3,322,NA,NA,B,5,0 to 2,Dichrostachys cinerea,43,0.38,0.59,0.32,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+303,28-May,28-May-18,1,3,323,NA,NA,B,5,0 to 2,Ehretia rigida,60,0.45,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+305,28-May,28-May-18,1,3,277,NA,NA,B,5,0 to 2,Dichrostachys cinerea,82,0.61,0.64,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+309,28-May,28-May-18,1,3,278,NA,NA,B,5,0 to 2,Flueggea virosa,85,0.72,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+308,28-May,28-May-18,1,3,292,NA,NA,B,5,0 to 2,Dichrostachys cinerea,11.5,0.83,0.9,0.71,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+304,28-May,28-May-18,1,3,309,NA,NA,B,5,0 to 2,Ormocarpum trichocarpum,44,0.83,0.46,0.66,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+306,28-May,28-May-18,1,3,294,NA,NA,B,5,0 to 2,Dichrostachys cinerea,84,0.93,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+307,28-May,28-May-18,1,3,293,NA,NA,B,5,0 to 2,Commiphora schimperi,45,1.03,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+302,28-May,28-May-18,1,3,304,NA,NA,B,5,0 to 2,Dichrostachys cinerea,99,1.29,1.13,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+6,5/26/2018,26-May-18,1,3,OTS 0102,OTS0102,OTS C,NA,NA,0 to 25,Senegalia nigrescens,500.00,11.3,,,,,1,12,Old,N,45,45,15,Old,50,4,NA,N,NA,N,Y,melanie
+7,27/05/2018,27-May-18,1,3,190,NA,NA,A,1,2 to 10,Senegalia nigrescens,350.00,10.163,,,,,1,20,Old,N,3,0,3,Old,1,0,0,N,N,N,Y,DannY
+8,27/05/2018,27-May-18,1,3,189,NA,NA,A,3,2 to 10,Bolusanthus speciosus,300.00,2.03,5.65,3.257,5.291,5.451,6,15,Old,N,0,0,0,NA,0,0,0,N,N,N,Y,DannY
+12,27/05/2018,27-May-18,1,3,185,NA,NA,B,2,2 to 10,Bolusanthus speciosus,200.00,0.873,1.133,4.536,2.529,2.211,5,0,NA,N,45,0,45,New,0,0,0,N,N,N,Y,DannY
+9,27/05/2018,27-May-18,1,3,188,NA,NA,B,5,2 to 10,Philenoptera violacea,280.00,3.424,7.297,,,,2,0,NA,N,0,0,0,NA,0,0,0,N,N,N,Y,DannY
+11,27/05/2018,27-May-18,1,3,186,NA,NA,B,5,2 to 10,Combretum imberbe,210.00,6.801,7.195,,,,2,8,Old,N,0,0,0,NA,0,0,0,N,N,Y,Y,DannY
+10,27/05/2018,27-May-18,1,3,187,NA,NA,B,5,2 to 10,Combretum imberbe,230.00,7.511,11.233,,,,2,100,Old,Y,0,0,0,NA,0,0,0,N,N,Y,Y,DannY
+192,5/27/2018,27-May-18,1,5,76,NA,NA,A,1,0 to 2,Dichrostachys cinerea,33,0.49,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+191,5/27/2018,27-May-18,1,5,77,NA,NA,A,1,0 to 2,Senegalia nigrescens,40,0.51,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+190,5/27/2018,27-May-18,1,5,356,NA,NA,A,1,0 to 2,Dichrostachys cinerea,100,0.57,0.6,,,,2,top kill,Old,Y,NA,NA,NA,NA,NA,NA,NA,N,NA,N,Y,Melanie
+193,5/27/2018,27-May-18,1,5,75,NA,NA,A,3,0 to 2,Flueggea virosa,140,0.49,1.42,1.04,0.98,,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+197,5/27/2018,27-May-18,1,5,71,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,79,0.46,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+198,5/27/2018,27-May-18,1,5,70,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,57,0.49,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+199,5/27/2018,27-May-18,1,5,69,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,93,1.14,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+196,5/27/2018,27-May-18,1,5,72,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,140,1.30,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+194,5/27/2018,27-May-18,1,5,74,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,96,1.53,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+200,5/27/2018,27-May-18,1,5,68,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,160,3.69,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+195,5/27/2018,27-May-18,1,5,73,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,130,4.32,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+204,5/27/2018,27-May-18,1,5,64,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,50,0.26,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+205,5/27/2018,27-May-18,1,5,63,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,110,0.42,1.19,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+203,5/27/2018,27-May-18,1,5,65,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,80,0.45,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+208,5/27/2018,27-May-18,1,5,60,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,68,0.61,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+216,5/27/2018,27-May-18,1,5,52,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,94,0.86,0.86,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+202,5/27/2018,27-May-18,1,5,66,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,104,0.89,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+210,5/27/2018,27-May-18,1,5,58,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,100,0.98,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+201,5/27/2018,27-May-18,1,5,67,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,94,1.11,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+215,5/27/2018,27-May-18,1,5,53,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,110,1.12,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+206,5/27/2018,27-May-18,1,5,62,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,77,1.18,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+214,5/27/2018,27-May-18,1,5,54,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,130,1.32,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+207,5/27/2018,27-May-18,1,5,61,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,110,1.42,0.6,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+212,5/27/2018,27-May-18,1,5,56,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,100,1.56,0.68,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+211,5/27/2018,27-May-18,1,5,57,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,120,1.62,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+217,5/27/2018,27-May-18,1,5,51,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,130,2.20,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+209,5/27/2018,27-May-18,1,5,59,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,170,4.72,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+213,5/27/2018,27-May-18,1,5,55,NA,NA,A,5,0 to 2,Philenoptera violacea,200,5.47,4.44,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+8,5/26/2018,26-May-18,1,5,OTS 0104,OTS0104,OTS C,NA,NA,0 to 25,Senegalia nigrescens,550.00,12.9,12.7,,,,2,5,Old,N,NA,NA,NA,NA,NA,NA,NA,N,NA,N,Y,melanie
+9,5/26/2018,26-May-18,1,5,OTS 0105,OTS0105,OTS C,NA,NA,0 to 25,Senegalia nigrescens,500.00,16.3,6.5,1.6,,,3,6,Old,Y,50,80,25,Old,68,2,NA,N,NA,N,Y,melanie
+7,5/26/2018,26-May-18,1,5,OTS 0103,OTS0103,OTS C,NA,NA,0 to 25,Senegalia nigrescens,650.00,23.4,,,,,1,100,Old,Y,0,0,0,NA,NA,NA,NA,N,NA,Y,Y,melanie
+13,27/05/2018,27-May-18,1,5,184,NA,NA,B,2,2 to 10,Senegalia nigrescens,400.00,15.423,5.77,6.997,,,3,70,Old,Y,0,0,0,NA,0,0,0,N,N,Y,Y,DannY
+14,27/05/2018,27-May-18,1,5,183,NA,NA,B,3,2 to 10,Senegalia nigrescens,400.00,9.947,10.513,11.34,,,3,27,Old,N,0,0,0,NA,0,0,0,N,N,Y,Y,DannY
+16,27/05/2018,27-May-18,1,5,181,NA,NA,B,3,2 to 10,Senegalia nigrescens,400.00,11.252,14.561,11.525,,,3,75,Old,Y,0,0,0,NA,0,0,0,N,N,Y,N,DannY
+17,27/05/2018,27-May-18,1,5,180,NA,NA,B,4,2 to 10,Bolusanthus speciosus,250.00,1.549,2.341,3.899,4.18,,4,0,NA,N,0,0,0,NA,0,0,0,N,N,N,Y,DannY
+15,27/05/2018,27-May-18,1,5,182,NA,NA,B,4,2 to 10,Senegalia nigrescens,420.00,11.765,,,,,1,2,Old,N,0,0,0,NA,0,0,0,N,N,N,Y,DannY
+240,5/27/2018,27-May-18,1,7,37,NA,NA,A,1,0 to 2,Gymnosporia senegalensis,82,0.35,0.19,0.22,0.54,0.35,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+31,27/05/2018,27-May-18,1,7,174,NA,NA,A,1,0 to 2,Gymnosporia senegalensis,120,0.625,1.237,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+32,27/05/2018,27-May-18,1,7,173,NA,NA,A,1,0 to 2,Gymnosporia senegalensis,157,1.382,3.026,0.913,1.113,2.477,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+30,27/05/2018,27-May-18,1,7,101,NA,NA,A,1,0 to 2,Gymnosporia senegalensis,179,3.056,2.421,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+233,5/27/2018,27-May-18,1,7,357,NA,NA,A,2,0 to 2,Gymnosporia senegalensis,84,0.55,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+232,5/27/2018,27-May-18,1,7,377,NA,NA,A,2,0 to 2,Gymnosporia senegalensis,71,0.72,0.62,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+234,5/27/2018,27-May-18,1,7,360,NA,NA,A,2,0 to 2,Gymnosporia senegalensis,140,1.16,1.94,1.96,1.58,,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+238,5/27/2018,27-May-18,1,7,359,NA,NA,A,2,0 to 2,Gymnosporia senegalensis,160,1.35,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+235,5/27/2018,27-May-18,1,7,352,NA,NA,A,2,0 to 2,Gymnosporia senegalensis,130,1.53,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+236,5/27/2018,27-May-18,1,7,22,NA,NA,A,2,0 to 2,Gymnosporia senegalensis,150,1.75,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+239,5/27/2018,27-May-18,1,7,35,NA,NA,A,2,0 to 2,Gymnosporia senegalensis,165,1.96,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+237,5/27/2018,27-May-18,1,7,23,NA,NA,A,2,0 to 2,Gymnosporia senegalensis,150,2.66,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+228,5/27/2018,27-May-18,1,7,44,NA,NA,A,3,0 to 2,Gymnosporia senegalensis,73,0.36,0.72,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+230,5/27/2018,27-May-18,1,7,41,NA,NA,A,3,0 to 2,Gymnosporia senegalensis,64,0.37,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+231,5/27/2018,27-May-18,1,7,385,NA,NA,A,3,0 to 2,Gymnosporia senegalensis,95,0.76,1.04,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+229,5/27/2018,27-May-18,1,7,40,NA,NA,A,3,0 to 2,Gymnosporia senegalensis,100,1.52,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+227,5/27/2018,27-May-18,1,7,279,NA,NA,A,4,0 to 2,Lannea schweinfurthii,63,0.53,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+226,5/27/2018,27-May-18,1,7,280,NA,NA,A,4,0 to 2,Vachellia gerrardii,200,11.50,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+43,May 27-2018,27-May-18,1,7,267,NA,NA,B,2,0 to 2,Gymnosporia senegalensis,52,0.23,0.03,0.21,0.82,0.06,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+44,May 27-2018,27-May-18,1,7,266,NA,NA,B,2,0 to 2,Gymnosporia senegalensis,120,0.913,,.,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+42,May 27-2018,27-May-18,1,7,268,NA,NA,B,2,0 to 2,Gymnosporia senegalensis,130,0.917,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+40,May 27-2018,27-May-18,1,7,269,NA,NA,B,3,0 to 2,Gymnosporia senegalensis,52,0.27,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+41,May 27-2018,27-May-18,1,7,220,NA,NA,B,3,0 to 2,Gymnosporia senegalensis,79,0.62,0.3,0.13,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+39,May 27-2018,27-May-18,1,7,219,NA,NA,B,4,0 to 2,Dichrostachys cinerea,42,0.67,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+21,27/05/2018,27-May-18,1,7,176,NA,NA,A,3,2 to 10,Senegalia nigrescens,450.00,9.276,,,,,1,90,Old,Y,0,0,0,NA,0,0,0,N,N,N,Y,DannY
+22,27/05/2018,27-May-18,1,7,175,NA,NA,A,5,2 to 10,Senegalia nigrescens,450.00,12.488,12.48,,,,2,3,Old,N,60,0,60,Old,20,0,0,N,N,N,Y,DannY
+222,5/27/2018,27-May-18,1,9,50,NA,NA,A,4,0 to 2,Ehrethia rigidia,44,0.53,0.44,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+221,5/27/2018,27-May-18,1,9,42,NA,NA,A,4,0 to 2,Ehrethia rigidia,29,0.56,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+218,5/27/2018,27-May-18,1,9,46,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,36,0.81,0.57,0.52,0.48,0.62,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+220,5/27/2018,27-May-18,1,9,48,NA,NA,A,4,0 to 2,Ehrethia rigidia,65,1.10,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+219,5/27/2018,27-May-18,1,9,47,NA,NA,A,4,0 to 2,Ehrethia rigidia,28,1.16,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+224,5/27/2018,27-May-18,1,9,49,NA,NA,A,5,0 to 2,Dalbergia melanoxylon,170,0.23,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+225,5/27/2018,27-May-18,1,9,43,NA,NA,A,5,0 to 2,Dalbergia melanoxylon,28,0.37,0.21,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+223,5/27/2018,27-May-18,1,9,45,NA,NA,A,5,0 to 2,Dalbergia melanoxylon,87,0.65,0.54,0.47,0.66,,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+35,May 27-2018,27-May-18,1,9,270,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,82,0.7,0.09,1.3,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+37,May 27-2018,27-May-18,1,9,218,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,68,1,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+38,May 27-2018,27-May-18,1,9,217,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,120,1.3,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+36,May 27-2018,27-May-18,1,9,216,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,110,1.9,1.1,0.08,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+34,May 27-2018,27-May-18,1,9,215,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,120,1.9,1.1,1.2,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+10,5/26/2018,26-May-18,1,9,OTS 0106,OTS0106,OTS C,NA,NA,0 to 25,Senegalia nigrescens,650.00,13.3,11.6,,,,2,25,Old,N,70,70,80,Old,0,1,NA,N,NA,Y,Y,melanie
+11,5/26/2018,26-May-18,1,9,OTS 0107,OTS0107,OTS C,NA,NA,0 to 25,Senegalia nigrescens,550.00,13.6,7,13.7,17,,4,60,Old,Y,75,75,60,Old,15,30,NA,NA,NA,Y,Y,melanie
+12,5/26/2018,26-May-18,1,9,OTS 0108,OTS0108,OTS C,NA,NA,0 to 25,Senegalia nigrescens,500.00,15.2,17,16.7,,,3,3,Old,N,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,melanie
+18,27/05/2018,27-May-18,1,9,179,NA,NA,A,2,2 to 10,Senegalia nigrescens,210.00,5.971,8.297,4.53,,,3,0,NA,N,15,0,15,New,0,0,0,N,N,N,Y,DannY
+20,27/05/2018,27-May-18,1,9,177,NA,NA,B,3,2 to 10,Senegalia nigrescens,400.00,11.368,,,,,1,2,Old,N,0,0,0,NA,0,0,0,N,N,N,Y,DannY
+19,27/05/2018,27-May-18,1,9,178,NA,NA,B,4,2 to 10,Senegalia nigrescens,400.00,12.553,11.827,,,,2,0,NA,N,50,0,50,New,0,0,0,N,N,Y,Y,DannY
+245,5/27/2018,27-May-18,2,10,39,NA,NA,A,1,0 to 2,Gymnosporia senegalensis,37,0.54,0.54,0.56,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+242,5/27/2018,27-May-18,2,10,36,NA,NA,A,1,0 to 2,Gymnosporia senegalensis,120,0.85,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+244,5/27/2018,27-May-18,2,10,19,NA,NA,A,1,0 to 2,Gymnosporia senegalensis,120,1.15,0.66,0.46,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+243,5/27/2018,27-May-18,2,10,34,NA,NA,A,1,0 to 2,Gymnosporia senegalensis,120,1.46,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+241,5/27/2018,27-May-18,2,10,21,NA,NA,A,1,0 to 2,Gymnosporia senegalensis,160,1.77,1.09,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+246,5/27/2018,27-May-18,2,10,25,NA,NA,A,2,0 to 2,Gymnosporia senegalensis,75,0.95,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+248,5/27/2018,27-May-18,2,10,30,NA,NA,A,3,0 to 2,Ormocarpum trichocarpum,110,0.83,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+247,5/27/2018,27-May-18,2,10,28,NA,NA,A,3,0 to 2,Gymnosporia senegalensis,100,1.29,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+249,5/27/2018,27-May-18,2,10,33,NA,NA,A,3,0 to 2,Gymnosporia senegalensis,200,1.82,2.31,1.10,1.00,1.00,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+251,5/27/2018,27-May-18,2,10,32,NA,NA,A,4,0 to 2,Ormocarpum trichocarpum,82,0.8,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+253,5/27/2018,27-May-18,2,10,27,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,110,1.08,1.48,1.26,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+250,5/27/2018,27-May-18,2,10,38,NA,NA,A,4,0 to 2,Ormocarpum trichocarpum,85,1.13,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+252,5/27/2018,27-May-18,2,10,26,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,100,1.16,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+254,5/27/2018,27-May-18,2,10,29,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,130,1.85,0.79,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+257,5/27/2018,27-May-18,2,10,31,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,65,0.64,0.38,0.87,0.64,,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+256,5/27/2018,27-May-18,2,10,24,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,99,0.83,1.23,0.45,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+255,5/27/2018,27-May-18,2,10,20,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,100,1.00,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+258,5/27/2018,27-May-18,2,10,230,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,99,1.06,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+60,May 27-2018,27-May-18,2,10,244,NA,NA,B,3,0 to 2,Ormocarpum trichocarpum,50,0.24,0.26,0.21,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+63,May 27-2018,27-May-18,2,10,231,NA,NA,B,3,0 to 2,Ormocarpum trichocarpum,76,0.28,0.59,0.33,0.36,,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+61,May 27-2018,27-May-18,2,10,245,NA,NA,B,3,0 to 2,Ormocarpum trichocarpum,60,0.56,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+62,May 27-2018,27-May-18,2,10,233,NA,NA,B,3,0 to 2,Ormocarpum trichocarpum,51,0.65,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+65,May 27-2018,27-May-18,2,10,246,NA,NA,B,3,0 to 2,Gymnosporia senegalensis,65,0.68,0.84,0.23,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+64,May 27-2018,27-May-18,2,10,235,NA,NA,B,3,0 to 2,Gymnosporia senegalensis,95,0.84,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+55,May 27-2018,27-May-18,2,10,238,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,110,0.4,0.93,1.13,0.86,0.87,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+58,May 27-2018,27-May-18,2,10,241,NA,NA,B,4,0 to 2,Ormocarpum trichocarpum,37,0.83,0.74,0.25,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+59,May 27-2018,27-May-18,2,10,243,NA,NA,B,4,0 to 2,Ormocarpum trichocarpum,81,0.92,0.48,0.72,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+56,May 27-2018,27-May-18,2,10,239,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,81,0.96,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+57,May 27-2018,27-May-18,2,10,240,NA,NA,B,4,0 to 2,Ormocarpum trichocarpum,73,1.42,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+52,May 27-2018,27-May-18,2,10,228,NA,NA,B,5,0 to 2,Gymnosporia senegalensis,82,0.21,1,0.55,0.48,0.46,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+54,May 27-2018,27-May-18,2,10,237,NA,NA,B,5,0 to 2,Dichrostachys cinerea,23,0.46,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+47,May 27-2018,27-May-18,2,10,223,NA,NA,B,5,0 to 2,Ormocarpum trichocarpum,50,0.52,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+46,May 27-2018,27-May-18,2,10,222,NA,NA,B,5,0 to 2,Ormocarpum trichocarpum,40,0.57,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+45,May 27-2018,27-May-18,2,10,221,NA,NA,B,5,0 to 2,Gymnosporia senegalensis,95,0.78,0.34,0.68,1.12,0.54,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+48,May 27-2018,27-May-18,2,10,224,NA,NA,B,5,0 to 2,Gymnosporia senegalensis,110,1.31,1.09,0.84,0.92,0.89,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+51,May 27-2018,27-May-18,2,10,227,NA,NA,B,5,0 to 2,Gymnosporia senegalensis,120,1.52,1.4,0.9,0.68,,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+49,May 27-2018,27-May-18,2,10,225,NA,NA,B,5,0 to 2,Gymnosporia senegalensis,130,1.55,0.45,0.24,0.76,0.93,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+53,May 27-2018,27-May-18,2,10,229,NA,NA,B,5,0 to 2,Dichrostachys cinerea,40,1.75,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+50,May 27-2018,27-May-18,2,10,226,NA,NA,B,5,0 to 2,Gymnosporia senegalensis,90,1.79,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+23,27/05/2018,27-May-18,2,10,172,NA,NA,A,5,2 to 10,Philenoptera violacea,200.00,5.002,8.519,,,,2,0,NA,N,0,0,0,NA,0,0,0,N,N,N,Y,DannY
+261,5/27/2018,27-May-18,2,14,232,NA,NA,A,2,0 to 2,Ehrethia rigidia,27,0.27,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+259,5/27/2018,27-May-18,2,14,236,NA,NA,A,2,0 to 2,Ehrethia rigidia,32,0.27,0.46,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+260,5/27/2018,27-May-18,2,14,234,NA,NA,A,2,0 to 2,Ehrethia rigidia,28,0.45,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+262,5/27/2018,27-May-18,2,14,242,NA,NA,A,2,0 to 2,Ehrethia rigidia,23,0.47,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+263,5/27/2018,27-May-18,2,14,283,NA,NA,A,2,0 to 2,Ehrethia rigidia,36,0.63,0.34,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+264,5/27/2018,27-May-18,2,14,286,NA,NA,A,4,0 to 2,Lannea schweinfurthii,35,0.36,0.56,0.24,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+269,5/27/2018,27-May-18,2,14,14,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,120,0.71,1.55,1.64,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+266,5/27/2018,27-May-18,2,14,285,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,100,0.83,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+265,5/27/2018,27-May-18,2,14,289,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,120,1.13,1.23,1.11,1.24,,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+268,5/27/2018,27-May-18,2,14,484,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,120,1.69,1.16,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+267,5/27/2018,27-May-18,2,14,281,NA,NA,A,4,0 to 2,Albizia forbesii,110,2.10,1.40,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+271,5/27/2018,27-May-18,2,14,8,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,130,0.16,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+273,5/27/2018,27-May-18,2,14,6,NA,NA,A,5,0 to 2,Ormocarpum trichocarpum,53,0.93,0.49,0.77,0.58,,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+272,5/27/2018,27-May-18,2,14,7,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,110,0.98,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+274,5/27/2018,27-May-18,2,14,501,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,90,1.36,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+270,5/27/2018,27-May-18,2,14,10,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,140,1.20,1.50,1.40,1.40,,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Melanie
+70,May 27-2018,27-May-18,2,14,252,NA,NA,B,5,0 to 2,Gymnosporia senegalensis,93,0.57,0.34,1.39,0.95,,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+67,May 27-2018,27-May-18,2,14,249,NA,NA,B,5,0 to 2,Gymnosporia senegalensis,100,0.75,0.72,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+72,May 27-2018,27-May-18,2,14,254,NA,NA,B,5,0 to 2,Gymnosporia senegalensis,130,0.81,1.74,3.32,2.94,1.32,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+69,May 27-2018,27-May-18,2,14,251,NA,NA,B,5,0 to 2,Gymnosporia senegalensis,90,0.87,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+68,May 27-2018,27-May-18,2,14,250,NA,NA,B,5,0 to 2,Gymnosporia senegalensis,100,0.93,1.6,0.88,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+66,May 27-2018,27-May-18,2,14,248,NA,NA,B,5,0 to 2,Gymnosporia senegalensis,78,0.96,0.81,0.53,1.09,0.56,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+73,May 27-2018,27-May-18,2,14,255,NA,NA,B,5,0 to 2,Gymnosporia senegalensis,100,0.99,0.87,1.17,0.64,,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+71,May 27-2018,27-May-18,2,14,253,NA,NA,B,5,0 to 2,Gymnosporia senegalensis,130,1.97,0.74,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Nthabe and sbo
+29,12-Jun-18,12-Jun-18,2,19,,E2,OTS A,NA,NA,0 to 25,Senegalia nigrescens,800.00,4.6,,,,,1,0,NA,N,0,0,0,Old,0,0,0,Y,N,Y,N,dAnnY
+13,12-Jun-18,12-Jun-18,2,19,1511,NA,NA,NA,NA,0 to 25,Acacia nilotica,800.00,4.6,2.5,4,2.7,,4,NA,NA,N,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,dAnnY
+27,12-Jun-18,12-Jun-18,2,19,1600,1600,OTS A,NA,NA,0 to 25,Senegalia nigrescens,500.00,9.2,8.7,,,,2,2,Old,N,0,0,0,NA,0,0,0,N,N,N,Y,dAnnY
+24,12-Jun-18,12-Jun-18,2,19,1515,NA,OTS A,NA,NA,0 to 25,Senegalia nigrescens,750.00,9.5,13.6,,,,2,NA,NA,N,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,dAnnY
+28,12-Jun-18,12-Jun-18,2,19,1599,1599,OTS A,NA,NA,0 to 25,Senegalia nigrescens,500.00,11.5,,,,,1,0,NA,Y,15,30,10,Old,60,0,0,N,N,Y,Y,dAnnY
+23,12-Jun-18,12-Jun-18,2,19,1513,NA,OTS A,NA,NA,0 to 25,Senegalia nigrescens,900.00,12.5,7.6,,,,2,NA,NA,N,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,dAnnY
+25,12-Jun-18,12-Jun-18,2,19,1448,1486,OTS A,NA,NA,0 to 25,Lannea schweinfurthii,650.00,18,19,,,,2,90,Old,Y,1,1,5,New,0,0,0,N,N,Y,Y,dAnnY
+22,12-Jun-18,12-Jun-18,2,19,1512,NA,OTS A,NA,NA,0 to 25,Senegalia nigrescens,850.00,18.3,8.6,,,,2,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,dAnnY
+18,12-Jun-18,12-Jun-18,2,19,1036,NA,OTS A,NA,NA,0 to 25,Senegalia nigrescens,700.00,20,,,,,1,100,Old,N,0,0,0,NA,0,0,50,N,N,Y,N,dAnnY
+20,12-Jun-18,12-Jun-18,2,19,1065,NA,OTS A,NA,NA,0 to 25,Senegalia nigrescens,750.00,24,,,,,1,70,Old,N,0,0,0,NA,0,0,50,N,N,Y,N,dAnnY
+32,12-Jun-18,12-Jun-18,2,19,,E5,OTS A,NA,NA,0 to 25,Senegalia nigrescens,550.00,25,,,,,1,0,NA,N,0,0,0,NA,0,0,0,Y,N,Y,N,dAnnY
+17,12-Jun-18,12-Jun-18,2,19,1066,NA,OTS A,NA,NA,0 to 25,Senegalia nigrescens,600.00,26,,,,,1,100,Old,N,0,0,0,NA,0,0,50,N,N,Y,N,dAnnY
+19,12-Jun-18,12-Jun-18,2,19,1064,NA,OTS A,NA,NA,0 to 25,Senegalia nigrescens,700.00,26,,,,,1,50,Old,N,0,0,0,NA,0,0,0,N,N,Y,N,dAnnY
+21,12-Jun-18,12-Jun-18,2,19,1037,NA,OTS A,NA,NA,0 to 25,Senegalia nigrescens,800.00,26,21,18,,,3,50,Old,N,40,0,40,Old,5,2,50,Y,Y,Y,N,dAnnY
+33,12-Jun-18,12-Jun-18,2,19,,E6,OTS A,NA,NA,0 to 25,Senegalia nigrescens,1000.00,27,,,,,1,0,NA,N,0,0,0,NA,0,0,0,Y,N,Y,N,dAnnY
+34,12-Jun-18,12-Jun-18,2,19,,E7,OTS A,NA,NA,0 to 25,Senegalia nigrescens,900.00,30,,,,,1,100,Old,Y,0,0,0,NA,0,0,0,N,N,Y,N,dAnnY
+30,12-Jun-18,12-Jun-18,2,19,,E3,OTS A,NA,NA,0 to 25,Senegalia nigrescens,500.00,36,,,,,1,0,NA,N,0,0,0,NA,0,0,0,Y,N,Y,N,dAnnY
+15,12-Jun-18,12-Jun-18,2,19,1060,NA,OTS A,NA,NA,0 to 25,Combretum imberbe,700.00,40,,,,,1,100,Old,N,0,0,0,NA,0,0,50,N,N,Y,N,dAnnY
+31,12-Jun-18,12-Jun-18,2,19,1589,1589,OTS A,NA,NA,0 to 25,Senegalia nigrescens,1300.00,45,,,,,1,15,Old,N,0,0,0,NA,0,0,0,N,N,N,Y,dAnnY
+26,12-Jun-18,12-Jun-18,2,19,,E1,OTS A,NA,NA,0 to 25,Senegalia nigrescens,600.00,,,,,,1,100,Old,N,0,0,0,NA,0,0,0,N,N,N,N,dAnnY
+645,29-May-18,29-May-18,3,20,no tag,NA,NA,A,3,0 to 2,Ehretia rigida,14,0.25,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+638,29-May-18,29-May-18,3,20,no tag,NA,NA,A,3,0 to 2,Ehretia rigida,20,0.25,0.24,0.4,0.25,0.413,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+637,29-May-18,29-May-18,3,20,no tag,NA,NA,A,3,0 to 2,Ehretia rigida,32,0.25,0.23,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+640,29-May-18,29-May-18,3,20,no tag,NA,NA,A,3,0 to 2,Ormocarpum trichocarpum,14,0.3,0.304,0.28,0,0,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+644,29-May-18,29-May-18,3,20,no tag,NA,NA,A,3,0 to 2,Ehretia rigida,50,0.337,0.247,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+646,29-May-18,29-May-18,3,20,no tag,NA,NA,A,3,0 to 2,Ehretia rigida,22,0.38,0.24,0.23,0.25,0.26,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+641,29-May-18,29-May-18,3,20,no tag,NA,NA,A,3,0 to 2,Ehretia rigida,45,0.38,0.34,0.16,0,0,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+643,29-May-18,29-May-18,3,20,no tag,NA,NA,A,3,0 to 2,Ehretia rigida,10,0.402,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+639,29-May-18,29-May-18,3,20,no tag,NA,NA,A,3,0 to 2,Ormocarpum trichocarpum,42,0.436,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+642,29-May-18,29-May-18,3,20,no tag,NA,NA,A,3,0 to 2,Dichrostachys cinerea,100,0.89,0.46,0.512,0.59,0.31,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+591,29/05/2018,29-May-18,3,20,no tag,NA,NA,A,4,0 to 2,Ehrethia rigida ,20,0.2,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+647,29-May-18,29-May-18,3,20,no tag,NA,NA,A,4,0 to 2,Commiphora schimperi,40,0.23,0.083,0.294,0.32,0.175,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+589,29/05/2018,29-May-18,3,20,no tag,NA,NA,A,4,0 to 2,Diospyros mespiliformis,95,0.25,0.18,0.9,0.1,0.15,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+581,29/05/2018,29-May-18,3,20,no tag,NA,NA,A,4,0 to 2,Ehrethia rigida ,10,0.3,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+580,29/05/2018,29-May-18,3,20,no tag,NA,NA,A,4,0 to 2,Ehrethia rigida ,15,0.3,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+586,29/05/2018,29-May-18,3,20,no tag,NA,NA,A,4,0 to 2,Ehrethia rigida ,20,0.3,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+587,29/05/2018,29-May-18,3,20,no tag,NA,NA,A,4,0 to 2,Ehrethia rigida ,20,0.3,0.2,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+594,29/05/2018,29-May-18,3,20,no tag,NA,NA,A,4,0 to 2,Ehrethia rigida ,20,0.3,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+584,29/05/2018,29-May-18,3,20,no tag,NA,NA,A,4,0 to 2,Ehrethia rigida ,25,0.3,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+585,29/05/2018,29-May-18,3,20,no tag,NA,NA,A,4,0 to 2,Ehrethia rigida ,25,0.3,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+592,29/05/2018,29-May-18,3,20,no tag,NA,NA,A,4,0 to 2,Ehrethia rigida ,30,0.3,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+657,29-May-18,29-May-18,3,20,no tag,NA,NA,A,4,0 to 2,Ehretia rigida,20,0.32,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+652,29-May-18,29-May-18,3,20,no tag,NA,NA,A,4,0 to 2,Ehretia rigida,42,0.32,0.18,0.14,0.25,0.24,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+651,29-May-18,29-May-18,3,20,no tag,NA,NA,A,4,0 to 2,Commiphora schimperi,50,0.36,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+582,29/05/2018,29-May-18,3,20,no tag,NA,NA,A,4,0 to 2,Ehrethia rigida ,20,0.4,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+590,29/05/2018,29-May-18,3,20,no tag,NA,NA,A,4,0 to 2,Ziziphus zeyheriana,25,0.4,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+593,29/05/2018,29-May-18,3,20,no tag,NA,NA,A,4,0 to 2,Ehrethia rigida ,30,0.4,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+588,29/05/2018,29-May-18,3,20,no tag,NA,NA,A,4,0 to 2,Ehrethia rigida ,40,0.4,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+649,29-May-18,29-May-18,3,20,no tag,NA,NA,A,4,0 to 2,Commiphora schimperi,32,0.429,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+648,29-May-18,29-May-18,3,20,no tag,NA,NA,A,4,0 to 2,Commiphora schimperi,30,0.43,0.34,0.219,0.14,0.15,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+654,29-May-18,29-May-18,3,20,no tag,NA,NA,A,4,0 to 2,Ehretia rigida,37,0.43,0.37,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+653,29-May-18,29-May-18,3,20,no tag,NA,NA,A,4,0 to 2,Ehretia rigida,52,0.44,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+650,29-May-18,29-May-18,3,20,no tag,NA,NA,A,4,0 to 2,Ehretia rigida,32,0.48,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+579,29/05/2018,29-May-18,3,20,no tag,NA,NA,A,4,0 to 2,Ehrethia rigida ,30,0.5,0.1,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+656,29-May-18,29-May-18,3,20,no tag,NA,NA,A,4,0 to 2,Ehretia rigida,43,0.55,0.54,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+583,29/05/2018,29-May-18,3,20,no tag,NA,NA,A,4,0 to 2,Ehrethia rigida ,50,0.8,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+655,29-May-18,29-May-18,3,20,no tag,NA,NA,A,4,0 to 2,Ehretia rigida,72,0.913,0.416,0.32,0.503,0,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+568,29/05/2018,29-May-18,3,20,no tag,NA,NA,A,5,0 to 2,Ehrethia rigida ,15,0.2,0.2,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+575,29/05/2018,29-May-18,3,20,no tag,NA,NA,A,5,0 to 2,Ehrethia rigida ,15,0.3,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+573,29/05/2018,29-May-18,3,20,no tag,NA,NA,A,5,0 to 2,Ehrethia rigida ,20,0.3,0.6,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+567,29/05/2018,29-May-18,3,20,no tag,NA,NA,A,5,0 to 2,Ehrethia rigida ,15,0.4,0.3,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+569,29/05/2018,29-May-18,3,20,no tag,NA,NA,A,5,0 to 2,Ehrethia rigida ,15,0.4,0.5,0.2,0.2,0.3,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+574,29/05/2018,29-May-18,3,20,no tag,NA,NA,A,5,0 to 2,Ehrethia rigida ,20,0.4,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+571,29/05/2018,29-May-18,3,20,no tag,NA,NA,A,5,0 to 2,Ehrethia rigida ,20,0.5,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+577,29/05/2018,29-May-18,3,20,no tag,NA,NA,A,5,0 to 2,Ehrethia rigida ,30,0.5,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+570,29/05/2018,29-May-18,3,20,no tag,NA,NA,A,5,0 to 2,Ehrethia rigida ,10,0.6,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+572,29/05/2018,29-May-18,3,20,no tag,NA,NA,A,5,0 to 2,Ehrethia rigida ,15,0.6,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+576,29/05/2018,29-May-18,3,20,no tag,NA,NA,A,5,0 to 2,Ormocarpum trichocarpum,20,0.78,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+578,29/05/2018,29-May-18,3,20,no tag,NA,NA,A,5,0 to 2,Ehrethia rigida ,40,0.8,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+566,29/05/2018,29-May-18,3,20,no tag,NA,NA,A ,5,0 to 2,Ehrethia rigida ,15,0.4,0.2,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+555,29/05/2018,29-May-18,3,20,no tag,NA,NA,B,2,0 to 2,Ehrethia rigida ,10,0.2,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+559,29/05/2018,29-May-18,3,20,no tag,NA,NA,B,2,0 to 2,Ehrethia rigida ,10,0.2,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+562,29/05/2018,29-May-18,3,20,no tag,NA,NA,B,2,0 to 2,Ehrethia rigida ,10,0.2,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+565,29/05/2018,29-May-18,3,20,no tag,NA,NA,B,2,0 to 2,Ehrethia rigida ,30,0.2,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+557,29/05/2018,29-May-18,3,20,no tag,NA,NA,B,2,0 to 2,Ehrethia rigida ,10,0.3,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+558,29/05/2018,29-May-18,3,20,no tag,NA,NA,B,2,0 to 2,Ehrethia rigida ,10,0.3,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+561,29/05/2018,29-May-18,3,20,no tag,NA,NA,B,2,0 to 2,Ehrethia rigida ,15,0.3,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+560,29/05/2018,29-May-18,3,20,no tag,NA,NA,B,2,0 to 2,Ehrethia rigida ,20,0.3,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+556,29/05/2018,29-May-18,3,20,no tag,NA,NA,B,2,0 to 2,Ehrethia rigida ,50,0.3,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+563,29/05/2018,29-May-18,3,20,no tag,NA,NA,B,2,0 to 2,Ehrethia rigida ,50,0.3,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+564,29/05/2018,29-May-18,3,20,no tag,NA,NA,B,2,0 to 2,Ehrethia rigida ,50,0.4,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+552,29/05/2018,29-May-18,3,20,no tag,NA,NA,B,3,0 to 2,Ehrethia rigida ,20,0.1,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+539,29/05/2018,29-May-18,3,20,no tag,NA,NA,B,3,0 to 2,Ehrethia rigida ,10,0.2,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+540,29/05/2018,29-May-18,3,20,no tag,NA,NA,B,3,0 to 2,Ehrethia rigida ,10,0.2,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+541,29/05/2018,29-May-18,3,20,no tag,NA,NA,B,3,0 to 2,Ehrethia rigida ,20,0.3,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+544,29/05/2018,29-May-18,3,20,no tag,NA,NA,B,3,0 to 2,Ehrethia rigida ,20,0.3,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+547,29/05/2018,29-May-18,3,20,no tag,NA,NA,B,3,0 to 2,Ehrethia rigida ,20,0.3,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+548,29/05/2018,29-May-18,3,20,no tag,NA,NA,B,3,0 to 2,Ehrethia rigida ,20,0.3,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+551,29/05/2018,29-May-18,3,20,no tag,NA,NA,B,3,0 to 2,Ehrethia rigida ,45,0.3,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+554,29/05/2018,29-May-18,3,20,no tag,NA,NA,B,3,0 to 2,Ehrethia rigida ,10,0.4,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+537,29/05/2018,29-May-18,3,20,no tag,NA,NA,B,3,0 to 2,Ehrethia rigida ,15,0.4,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+546,29/05/2018,29-May-18,3,20,no tag,NA,NA,B,3,0 to 2,Ehrethia rigida ,25,0.4,0.4,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+538,29/05/2018,29-May-18,3,20,no tag,NA,NA,B,3,0 to 2,Senegalia nigrescens,10,0.5,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+535,29/05/2018,29-May-18,3,20,no tag,NA,NA,B,3,0 to 2,Ehrethia rigida ,50,0.5,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+536,29/05/2018,29-May-18,3,20,no tag,NA,NA,B,3,0 to 2,Senegalia nigrescens,15,0.6,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+543,29/05/2018,29-May-18,3,20,no tag,NA,NA,B,3,0 to 2,Ehrethia rigida ,20,0.6,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+545,29/05/2018,29-May-18,3,20,no tag,NA,NA,B,3,0 to 2,Ehrethia rigida ,20,0.6,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+549,29/05/2018,29-May-18,3,20,no tag,NA,NA,B,3,0 to 2,Ehrethia rigida ,30,0.7,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+553,29/05/2018,29-May-18,3,20,no tag,NA,NA,B,3,0 to 2,Ziziphus zeyheriana,30,0.7,0.2,0.4,0.9,0.5,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+550,29/05/2018,29-May-18,3,20,no tag,NA,NA,B,3,0 to 2,Ehrethia rigida ,50,0.7,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+542,29/05/2018,29-May-18,3,20,no tag,NA,NA,B,3,0 to 2,Ehrethia rigida ,20,NA,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+533,29/05/2018,29-May-18,3,20,no tag,NA,NA,B,4,0 to 2,Ehrethia rigida ,20,0.1,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+534,29/05/2018,29-May-18,3,20,no tag,NA,NA,B,4,0 to 2,Ehrethia rigida ,20,0.3,0.3,0.2,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+532,29/05/2018,29-May-18,3,20,no tag,NA,NA,B,4,0 to 2,Ehrethia rigida ,40,0.3,0.7,,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+531,29/05/2018,29-May-18,3,20,no tag,NA,NA,B,4,0 to 2,Ehrethia rigida ,50,0.3,0.2,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+632,29-May-18,29-May-18,3,22,no tag,NA,NA,A,1,0 to 2,Philenoptera violacea,100,0.11,3.2,1.7,2.18,1.3,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+625,29-May-18,29-May-18,3,22,no tag,NA,NA,A,1,0 to 2,Ehretia rigida,17,0.16,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+631,29-May-18,29-May-18,3,22,no tag,NA,NA,A,1,0 to 2,Ehretia rigida,50,0.19,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+623,29-May-18,29-May-18,3,22,no tag,NA,NA,A,1,0 to 2,Ehretia rigida,15,0.211,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+636,29-May-18,29-May-18,3,22,no tag,NA,NA,A,1,0 to 2,Ehretia rigida,12,0.25,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+627,29-May-18,29-May-18,3,22,no tag,NA,NA,A,1,0 to 2,Ehretia rigida,37,0.25,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+633,29-May-18,29-May-18,3,22,no tag,NA,NA,A,1,0 to 2,Ehretia rigida,38,0.29,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+621,29-May-18,29-May-18,3,22,no tag,NA,NA,A,1,0 to 2,Ehretia rigida,42,0.3,0.14,0.48,0.12,0,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+635,29-May-18,29-May-18,3,22,no tag,NA,NA,A,1,0 to 2,Ehretia rigida,90,0.31,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+634,29-May-18,29-May-18,3,22,no tag,NA,NA,A,1,0 to 2,Ehretia rigida,19,0.32,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+626,29-May-18,29-May-18,3,22,no tag,NA,NA,A,1,0 to 2,Ehretia rigida,10,0.329,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+629,29-May-18,29-May-18,3,22,no tag,NA,NA,A,1,0 to 2,Ehretia rigida,24,0.34,0.24,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+620,29-May-18,29-May-18,3,22,no tag,NA,NA,A,1,0 to 2,Ehretia rigida,30,0.36,0.15,0.27,0,0,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+622,29-May-18,29-May-18,3,22,no tag,NA,NA,A,1,0 to 2,Ehretia rigida,42,0.429,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+624,29-May-18,29-May-18,3,22,no tag,NA,NA,A,1,0 to 2,Ehretia rigida,15,0.49,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+630,29-May-18,29-May-18,3,22,no tag,NA,NA,A,1,0 to 2,Ehretia rigida,43,0.5,0.54,0.312,0.12,0.38,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+628,29-May-18,29-May-18,3,22,no tag,NA,NA,A,1,0 to 2,Philenoptera violacea,120,3.5,1.4,1.8,3.03,2.49,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+603,29/05/2018,29-May-18,3,22,no tag,NA,NA,B,5,0 to 2,Senegalia nigrescens,20,0.44,0.83,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+597,29/05/2018,29-May-18,3,22,no tag,NA,NA,B,5,0 to 2,Senegalia nigrescens,20,0.5,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+601,29/05/2018,29-May-18,3,22,no tag,NA,NA,B,5,0 to 2,Ehrethia rigida ,15,0.51,0.78,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+600,29/05/2018,29-May-18,3,22,no tag,NA,NA,B,5,0 to 2,Ehrethia rigida ,20,0.57,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+598,29/05/2018,29-May-18,3,22,no tag,NA,NA,B,5,0 to 2,Senegalia nigrescens,20,0.61,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+602,29/05/2018,29-May-18,3,22,no tag,NA,NA,B,5,0 to 2,Senegalia nigrescens,30,0.88,0.12,0.54,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+604,29/05/2018,29-May-18,3,22,no tag,NA,NA,B,5,0 to 2,Ehrethia rigida ,30,0.95,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+599,29/05/2018,29-May-18,3,22,no tag,NA,NA,B,5,0 to 2,Senegalia nigrescens,40,0.97,0.82,0.75,0.77,0.52,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+14,29-May-18,29-May-18,3,22,256,NA,OTS A,NA,NA,0 to 25,Combretum hereroense,520.00,20.9,,,,,9,40,New,N,0,0,0,NA,0,0,0,N,N,Y,Y,DannY
+595,29/05/2018,29-May-18,3,22,no tag,NA,NA,A,3,2 to 10,Senegalia nigrescens,520.00,22.1,23,,,,2,0,NA,N,0,0,0,NA,0,0,0,Y,N,Y,Y,DannY
+596,29/05/2018,29-May-18,3,22,no tag,NA,NA,B,4,2 to 10,Senegalia nigrescens,400.00,25.6,,,,,1,0,NA,N,0,0,0,NA,0,0,0,Y,N,Y,N,DannY
+529,29/05/2018,29-May-18,3,22,256,OTS A,OTS A,NA,NA,,Combretum hereroense,520.00,20.9,,,,,9,40,New,N,0,0,0,NA,0,0,0,N,N,Y,Y,DannY
+608,29/05/2018,29-May-18,3,24,no tag,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,130,0.188,0.73,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+618,29/05/2018,29-May-18,3,24,no tag,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,10,0.29,0.36,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+616,29/05/2018,29-May-18,3,24,no tag,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,30,0.57,0.47,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+617,29/05/2018,29-May-18,3,24,no tag,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,50,0.96,0.63,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+615,29/05/2018,29-May-18,3,24,no tag,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,130,1.1,1.69,0.97,1.67,,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+613,29/05/2018,29-May-18,3,24,no tag,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,140,1.1,1.72,1.16,1.15,1.58,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+609,29/05/2018,29-May-18,3,24,no tag,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,140,1.735,1.31,0.64,1.09,,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+611,29/05/2018,29-May-18,3,24,no tag,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,150,2.41,1.2,1.1,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+614,29/05/2018,29-May-18,3,24,no tag,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,140,3.23,1.42,0.89,0.63,0.408,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+610,29/05/2018,29-May-18,3,24,no tag,NA,NA,A,4,0 to 2,Gymnosporia senegalensis,70,6.86,6.51,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+612,29/05/2018,29-May-18,3,24,no tag,NA,NA,A,4,0 to 2,Boscia foetida,120,7.17,0.97,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+607,29/05/2018,29-May-18,3,24,no tag,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,100,0.15,0.73,0.57,0.83,0.1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+606,29/05/2018,29-May-18,3,24,no tag,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,30,0.56,0.36,0.37,0.355,,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+605,29/05/2018,29-May-18,3,24,no tag,NA,NA,A,5,0 to 2,Ormocarpum trichocarpum,35,0.59,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,DannY
+511,May 29-2018,29-May-18,3,24,no tag,NA,NA,B,4,0 to 2,Commiphora schimperi,80,0.2,0.4,0.9,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Chelsea
+510,May 29-2018,29-May-18,3,24,no tag,NA,NA,B,4,0 to 2,Commiphora schimperi,25,0.3,0.2,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Chelsea
+506,May 29-2018,29-May-18,3,24,no tag,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,80,0.4,1.2,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Chelsea
+508,May 29-2018,29-May-18,3,24,no tag,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,70,0.6,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Chelsea
+505,May 29-2018,29-May-18,3,24,no tag,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,55,0.7,0.5,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Chelsea
+514,May 29-2018,29-May-18,3,24,no tag,NA,NA,B,4,0 to 2,Commiphora schimperi,85,0.7,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Chelsea
+516,May 29-2018,29-May-18,3,24,no tag,NA,NA,B,4,0 to 2,Boscia foetida,100,0.7,0.7,0.5,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Chelsea
+503,May 29-2018,29-May-18,3,24,no tag,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,60,0.8,0.9,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Chelsea
+507,May 29-2018,29-May-18,3,24,no tag,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,65,1.2,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Chelsea
+512,May 29-2018,29-May-18,3,24,no tag,NA,NA,B,4,0 to 2,Commiphora schimperi,80,1.2,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Chelsea
+519,May 29-2018,29-May-18,3,24,no tag,NA,NA,B,4,0 to 2,Commiphora schimperi,80,1.2,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Chelsea
+515,May 29-2018,29-May-18,3,24,no tag,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,170,1.2,2,2,1.5,1.2,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Chelsea
+504,May 29-2018,29-May-18,3,24,no tag,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,150,1.5,2,1.2,1.4,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Chelsea
+513,May 29-2018,29-May-18,3,24,no tag,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,155,2.5,,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Chelsea
+509,May 29-2018,29-May-18,3,24,no tag,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,145,2.7,1,0.7,1,1.5,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Chelsea
+517,May 29-2018,29-May-18,3,24,no tag,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,150,2.7,1.5,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Chelsea
+518,May 29-2018,29-May-18,3,24,no tag,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,170,3,1.2,1.2,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Chelsea
+520,May 29-2018,29-May-18,3,24,no tag,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,175,3.2,1.9,2,1.2,,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Chelsea
+500,May 29-2018,29-May-18,3,24,no tag,NA,NA,B,5,0 to 2,Ormocarpum trichocarpum,40,0.3,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Chelsea
+501,May 29-2018,29-May-18,3,24,no tag,NA,NA,B,5,0 to 2,Ormocarpum trichocarpum,20,0.4,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Chelsea
+499,May 29-2018,29-May-18,3,24,no tag,NA,NA,B,5,0 to 2,Ehretia rigida,40,0.9,0.5,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Chelsea
+502,May 29-2018,29-May-18,3,24,no tag,NA,NA,B,5,0 to 2,Ormocarpum trichocarpum,40,0.9,0.3,0.2,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Chelsea
+521,May 29-2018,29-May-18,3,26,no tag,NA,NA,A,5,0 to 2,Senegalia nigrescens,60,2.03,1.286,3.375,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Chelsea
+523,May 29-2018,29-May-18,3,26,no tag,NA,NA,B,5,0 to 2,Boscia foetida,35,0.4,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Chelsea
+526,May 29-2018,29-May-18,3,26,no tag,NA,NA,B,5,0 to 2,Senegalia nigrescens,40,0.5,1,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Chelsea
+527,May 29-2018,29-May-18,3,26,no tag,NA,NA,B,5,0 to 2,Ehretia rigida,80,0.5,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Chelsea
+524,May 29-2018,29-May-18,3,26,no tag,NA,NA,B,5,0 to 2,Dichrostachys cinerea,40,0.7,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Chelsea
+525,May 29-2018,29-May-18,3,26,no tag,NA,NA,B,5,0 to 2,Dichrostachys cinerea,40,0.7,0.3,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Chelsea
+522,May 29-2018,29-May-18,3,26,no tag,NA,NA,B,5,0 to 2,Senegalia nigrescens,25,0.9,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Chelsea
+494,May 29-2018,29-May-18,3,28,no tag,NA,NA,B,2,0 to 2,Ormocarpum trichocarpum,50,0.45,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Chelsea
+495,May 29-2018,29-May-18,3,28,no tag,NA,NA,B,2,0 to 2,Flueggea virosa,64,0.471,0.34,0.64,0.543,0.48,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Chelsea
+496,May 29-2018,29-May-18,3,28,no tag,NA,NA,B,2,0 to 2,Flueggea virosa,78,0.58,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Chelsea
+497,May 29-2018,29-May-18,3,28,no tag,NA,NA,B,2,0 to 2,Ormocarpum trichocarpum,111,0.79,0.392,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Chelsea
+498,May 29-2018,29-May-18,3,28,no tag,NA,NA,B,3,0 to 2,Commiphora schimperi,30,0.43,0.45,0.35,0.22,,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Chelsea
+16,29-May-18,29-May-18,3,28,663,NA,OTS A,NA,NA,0 to 25,Senegalia nigrescens,950.00,35.88,,,,,1,50,Old,N,30,10,20,Old,70,0,0,N,N,Y,Y,DannY
+530,29/05/2018,29-May-18,3,28,663,OTS A,OTS A,NA,NA,,Senegalia nigrescens,950.00,35.88,,,,,1,50,Old,N,30,10,20,Old,70,0,0,N,N,Y,Y,DannY
+488,28-May-18,28-May-18,4,12,694,NA,NA,A,1,0 to 2,Ehretia amoena,17,0.2,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+487,28-May-18,28-May-18,4,12,625,NA,NA,A,1,0 to 2,Ehretia amoena,24,0.4,5.6,0.8,0,0,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+469,28-May-18,28-May-18,4,12,163,NA,NA,A,1,0 to 2,Gymnosporia senegalensis,181,0.48,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+486,28-May-18,28-May-18,4,12,624,NA,NA,A,1,0 to 2,Ehretia amoena,26,0.85,0.52,0.48,0,0,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+475,28-May-18,28-May-18,4,12,606,NA,NA,A,1,0 to 2,Gymnosporia senegalensis,93,0.95,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+474,28-May-18,28-May-18,4,12,605,NA,NA,A,1,0 to 2,Gymnosporia senegalensis,144,1.08,2.33,2.812,0,0,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+471,28-May-18,28-May-18,4,12,602,NA,NA,A,1,0 to 2,Gymnosporia senegalensis,110,1.23,2.26,2.51,2.25,0,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+470,28-May-18,28-May-18,4,12,601,NA,NA,A,1,0 to 2,Gymnosporia senegalensis,142,1.42,0.78,0.54,2.88,0,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+472,28-May-18,28-May-18,4,12,603,NA,NA,A,1,0 to 2,Gymnosporia senegalensis,122,1.5,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+465,28-May-18,28-May-18,4,12,159,NA,NA,A,1,0 to 2,Gymnosporia senegalensis,120,1.64,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+477,28-May-18,28-May-18,4,12,608,NA,NA,A,1,0 to 2,Gymnosporia senegalensis,166,1.88,2.47,1.25,3.15,0,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+468,28-May-18,28-May-18,4,12,162,NA,NA,A,1,0 to 2,Gymnosporia senegalensis,145,2.16,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+466,28-May-18,28-May-18,4,12,160,NA,NA,A,1,0 to 2,Gymnosporia senegalensis,154,2.3,1.7,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+473,28-May-18,28-May-18,4,12,604,NA,NA,A,1,0 to 2,Gymnosporia senegalensis,100,2.44,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+467,28-May-18,28-May-18,4,12,161,NA,NA,A,1,0 to 2,Gymnosporia senegalensis,152,3.58,3.6,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+476,28-May-18,28-May-18,4,12,607,NA,NA,A,1,0 to 2,Gymnosporia senegalensis,187,3.8,2.94,2.28,3.98,3.11,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+479,28-May-18,28-May-18,4,12,610,NA,NA,A,2,0 to 2,Gymnosporia senegalensis,96,0.51,0.68,0.45,1.76,0,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+480,28-May-18,28-May-18,4,12,611,NA,NA,A,2,0 to 2,Gymnosporia senegalensis,110,0.51,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+481,28-May-18,28-May-18,4,12,612,NA,NA,A,2,0 to 2,Gymnosporia senegalensis,121,0.95,2.33,0.45,0,0,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+478,28-May-18,28-May-18,4,12,609,NA,NA,A,2,0 to 2,Gymnosporia senegalensis,146,2.62,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+483,28-May-18,28-May-18,4,12,614,NA,NA,A,3,0 to 2,Dalbergia melanoxylon,55,0.59,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+485,28-May-18,28-May-18,4,12,616,NA,NA,A,3,0 to 2,Dalbergia melanoxylon,51,0.69,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+484,28-May-18,28-May-18,4,12,615,NA,NA,A,3,0 to 2,Dalbergia melanoxylon,95,0.81,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+482,28-May-18,28-May-18,4,12,613,NA,NA,A,3,0 to 2,Gymnosporia senegalensis,65,0.83,0.41,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+489,28-May-18,28-May-18,4,12,699,NA,NA,A,3,0 to 2,Rhus gueinzii,45,0.838,0.401,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+491,28-May-18,28-May-18,4,12,669,NA,NA,A,4,0 to 2,Ormocarpum trichocarpum,23,0.253,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+492,28-May-18,28-May-18,4,12,654,NA,NA,A,4,0 to 2,Senegalia nigrescens,38,0.581,0.594,0.701,0,0,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+490,28-May-18,28-May-18,4,12,670,NA,NA,A,4,0 to 2,Ormocarpum trichocarpum,56,0.862,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+441,28-May-18,28-May-18,4,16,135,NA,NA,A,4,0 to 2,Ehretia rigida,72,0.95,1.19,1.01,1.68,0.89,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+439,28-May-18,28-May-18,4,16,133,NA,NA,A,4,0 to 2,Ehretia rigida,92,1.08,1.55,1.44,0.92,1.06,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+440,28-May-18,28-May-18,4,16,134,NA,NA,A,4,0 to 2,Ehretia rigida,48,1.14,0.15,1.05,2.65,1.67,37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+438,28-May-18,28-May-18,4,16,132,NA,NA,A,5,0 to 2,Ormocarpum trichocarpum,55,0.48,0.54,0.26,0.38,0.16,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+437,28-May-18,28-May-18,4,16,131,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,60,0.93,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+436,28-May-18,28-May-18,4,16,130,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,91,1.06,1.05,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+433,28-May-18,28-May-18,4,16,5,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,100,1.425,0,0,0,0,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+434,28-May-18,28-May-18,4,16,4,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,120,1.93,0.79,2.77,1.41,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+435,28-May-18,28-May-18,4,16,129,NA,NA,A,5,0 to 2,Gymnosporia senegalensis,130,2.75,0,0,0,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+464,28-May-18,28-May-18,4,18,158,NA,NA,A,2,0 to 2,Ehretia rigida,29,0.28,0.24,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+463,28-May-18,28-May-18,4,18,157,NA,NA,A,2,0 to 2,Ehretia rigida,41,0.52,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+458,28-May-18,28-May-18,4,18,152,NA,NA,A,3,0 to 2,Ehretia rigida,14,0.14,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+461,28-May-18,28-May-18,4,18,155,NA,NA,A,3,0 to 2,Ehretia rigida,10,0.15,0.19,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+459,28-May-18,28-May-18,4,18,153,NA,NA,A,3,0 to 2,Ehretia rigida,20,0.31,0.39,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+457,28-May-18,28-May-18,4,18,151,NA,NA,A,3,0 to 2,Ehretia rigida,33,0.32,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+456,28-May-18,28-May-18,4,18,150,NA,NA,A,3,0 to 2,Ehretia rigida,45,0.38,0.34,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+462,28-May-18,28-May-18,4,18,156,NA,NA,A,3,0 to 2,Ehretia rigida,41,0.42,0.65,0.32,0,0,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+460,28-May-18,28-May-18,4,18,154,NA,NA,A,3,0 to 2,Ehretia rigida,33,0.43,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+450,28-May-18,28-May-18,4,18,144,NA,NA,A,4,0 to 2,Ormocarpum trichocarpum,26,0.16,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+452,28-May-18,28-May-18,4,18,146,NA,NA,A,4,0 to 2,Ormocarpum trichocarpum,32,0.44,0.53,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+454,28-May-18,28-May-18,4,18,148,NA,NA,A,4,0 to 2,Ormocarpum trichocarpum,43,0.5,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+445,28-May-18,28-May-18,4,18,139,NA,NA,A,4,0 to 2,Ormocarpum trichocarpum,56,0.56,0.55,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+455,28-May-18,28-May-18,4,18,149,NA,NA,A,4,0 to 2,Ormocarpum trichocarpum,43,0.59,0.09,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+444,28-May-18,28-May-18,4,18,138,NA,NA,A,4,0 to 2,Ormocarpum trichocarpum,65,0.61,0.32,0.51,0.28,0,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+446,28-May-18,28-May-18,4,18,140,NA,NA,A,4,0 to 2,Ormocarpum trichocarpum,67,0.65,0.49,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+453,28-May-18,28-May-18,4,18,147,NA,NA,A,4,0 to 2,Ormocarpum trichocarpum,52,0.68,0.58,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+447,28-May-18,28-May-18,4,18,141,NA,NA,A,4,0 to 2,Ormocarpum trichocarpum,69,0.74,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+449,28-May-18,28-May-18,4,18,143,NA,NA,A,4,0 to 2,Ormocarpum trichocarpum,60,0.92,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+448,28-May-18,28-May-18,4,18,142,NA,NA,A,4,0 to 2,Ormocarpum trichocarpum,82,1.12,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+451,28-May-18,28-May-18,4,18,145,NA,NA,A,4,0 to 2,Ormocarpum trichocarpum,57,1.16,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+443,28-May-18,28-May-18,4,18,137,NA,NA,A,5,0 to 2,Ormocarpum trichocarpum,82,0.57,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+442,28-May-18,28-May-18,4,18,136,NA,NA,A,5,0 to 2,Ormocarpum trichocarpum,62,0.74,0.52,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+78,May 28-2018,28-May-18,4,29,867,NA,NA,A,1,0 to 2,Ehretia amoena,23,0.29,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+76,May 28-2018,28-May-18,4,29,860,NA,NA,A,1,0 to 2,Ehretia rigida,31,0.46,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+74,May 28-2018,28-May-18,4,29,862,NA,NA,A,1,0 to 2,Ehretia rigida,34,0.49,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+75,May 28-2018,28-May-18,4,29,861,NA,NA,A,1,0 to 2,Ehretia rigida,17,0.59,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+77,May 28-2018,28-May-18,4,29,863,NA,NA,A,1,0 to 2,Ehretia amoena,22,0.7,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+81,May 28-2018,28-May-18,4,29,865,NA,NA,A,4,0 to 2,Commiphora schimperi,24.5,0.16,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+84,May 28-2018,28-May-18,4,29,872,NA,NA,A,4,0 to 2,Commiphora schimperi,23.4,0.39,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+85,May 28-2018,28-May-18,4,29,857,NA,NA,A,4,0 to 2,Commiphora schimperi,20,0.42,0.45,0.63,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+80,May 28-2018,28-May-18,4,29,859,NA,NA,A,4,0 to 2,Commiphora schimperi,24,0.43,0.55,0.41,0.55,0.53,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+86,May 28-2018,28-May-18,4,29,856,NA,NA,A,4,0 to 2,Commiphora schimperi,38,0.45,0.46,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+79,May 28-2018,28-May-18,4,29,998,NA,NA,A,4,0 to 2,Commiphora schimperi,23,0.53,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+83,May 28-2018,28-May-18,4,29,858,NA,NA,A,4,0 to 2,Commiphora schimperi,49,0.74,0.8,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+82,May 28-2018,28-May-18,4,29,864,NA,NA,A,4,0 to 2,Commiphora schimperi,56,0.92,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+379,28-May-18,28-May-18,4,29,942,NA,NA,B,1,0 to 2,Dichrostachys cinerea,25,0.21,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+380,28-May-18,28-May-18,4,29,947,NA,NA,B,1,0 to 2,Albizia forbesii,47,0.35,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+381,28-May-18,28-May-18,4,29,948,NA,NA,B,1,0 to 2,Albizia forbesii,42,0.38,0.27,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+378,28-May-18,28-May-18,4,29,944,NA,NA,B,1,0 to 2,Ehretia rigida,35,0.97,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+384,28-May-18,28-May-18,4,29,950,NA,NA,B,4,0 to 2,Commiphora schimperi,44,0.25,0.54,0.27,0.39,0,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+385,28-May-18,28-May-18,4,29,951,NA,NA,B,4,0 to 2,Commiphora schimperi,30,0.29,0.5,0.31,0,0,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+386,28-May-18,28-May-18,4,29,951,NA,NA,B,4,0 to 2,Commiphora schimperi,24,0.32,0.44,0.24,0.34,0.28,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+382,28-May-18,28-May-18,4,29,977,NA,NA,B,4,0 to 2,Commiphora schimperi,47,0.42,0.37,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+383,28-May-18,28-May-18,4,29,949,NA,NA,B,4,0 to 2,Flueggea virosa,58,0.63,0.43,0.52,0.38,0.87,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+387,28-May-18,28-May-18,4,29,953,NA,NA,B,5,0 to 2,Commiphora schimperi,53,0.19,0.32,0.51,0.54,0.27,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+389,28-May-18,28-May-18,4,29,955,NA,NA,B,5,0 to 2,Gymnosporia senegalensis,77,0.64,0.53,0.73,0.68,0,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+388,28-May-18,28-May-18,4,29,954,NA,NA,B,5,0 to 2,Gymnosporia senegalensis,62,0.69,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+1,5/26/2018,26-May-18,4,29,100,100,OTS 10,NA,NA,0 to 25,Senegalia nigrescens,510.00,33.9,,,,,1,50,Old,N,NA,NA,53,Old,0,10,0,N,N,Y,Y,Amu
+276,28-May,28-May-18,4,29,583,NA,NA,A,1,2 to 10,Senegalia nigrescens,330.00,31.7,,,,,1,30,New,Y,0,0,0,NA,0,0,0,N,N,Y,Y,GarY + DannY
+372,28-May,28-May-18,4,31,626,NA,NA,B,1,0 to 2,Commiphora schimperi,62,0.74,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+373,28-May,28-May-18,4,31,619,NA,NA,B,1,0 to 2,Flueggea virosa,142,1.07,1.11,0.8,0.61,1.24,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+371,28-May,28-May-18,4,31,620,NA,NA,B,1,0 to 2,Flueggea virosa,110,1.25,1.54,0.23,1.32,1.99,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+374,28-May,28-May-18,4,31,666,NA,NA,B,3,0 to 2,Ehretia rigida,32,0.31,0.56,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+375,28-May,28-May-18,4,31,667,NA,NA,B,4,0 to 2,Ormocarpum trichocarpum,37,0.65,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+376,28-May,28-May-18,4,31,687,NA,NA,B,5,0 to 2,Ehretia rigida,26,0.28,0.21,0.31,1.06,,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+4,5/26/2018,26-May-18,4,31,,NA,OTS 10,NA,NA,0 to 25,Senegalia nigrescens,660.00,26.5,,,,,1,0,Old,N,0,0,0,Old,0,0,0,N,N,Y,n,Amu
+288,28-May,28-May-18,4,31,740,NA,NA,A,2,2 to 10,Senegalia nigrescens,320.00,11.2,5.8,,,,2,40,New,Y,0,0,0,NA,0,0,0,N,N,Y,Y,GarY + DannY
+289,28-May,28-May-18,4,31,No-tag,NA,NA,B,4,2 to 10,Senegalia nigrescens,210.00,8.7,15,,,,2,30,Old,N,0,0,0,NA,0,0,0,N,N,Y,N,GarY + DannY
+290,28-May,28-May-18,4,31,772,NA,NA,B,5,2 to 10,Senegalia nigrescens,400.00,11.4,12.3,,,,2,30,Old,N,2,0,2,Old,20,0,0,N,N,Y,Y,GarY + DannY
+431,28-May-18,28-May-18,4,33,617,NA,NA,A,3,0 to 2,Commiphora schimperi,66,0.18,0.43,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+428,28-May-18,28-May-18,4,33,674,NA,NA,A,3,0 to 2,Commiphora schimperi,35,0.37,0.42,0.44,0,0,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+430,28-May-18,28-May-18,4,33,618,NA,NA,A,3,0 to 2,Commiphora schimperi,49,0.44,0.25,0.35,0.29,0.45,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+427,28-May-18,28-May-18,4,33,680,NA,NA,A,3,0 to 2,Commiphora schimperi,52,0.48,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+429,28-May-18,28-May-18,4,33,675,NA,NA,A,3,0 to 2,Commiphora schimperi,51,0.74,0.38,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+432,28-May-18,28-May-18,4,33,671,NA,NA,A,3,0 to 2,Commiphora schimperi,58,1.04,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+426,28-May-18,28-May-18,4,33,681,NA,NA,A,4,0 to 2,Commiphora schimperi,60,0.48,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+419,28-May-18,28-May-18,4,33,682,NA,NA,A,5,0 to 2,Ormocarpum trichocarpum,42,0.17,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+423,28-May-18,28-May-18,4,33,676,NA,NA,A,5,0 to 2,Ormocarpum trichocarpum,38,0.29,0.32,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+416,28-May-18,28-May-18,4,33,689,NA,NA,A,5,0 to 2,Ormocarpum trichocarpum,25,0.34,0.3,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+415,28-May-18,28-May-18,4,33,688,NA,NA,A,5,0 to 2,Senegalia nigrescens,42,0.35,0.249,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+422,28-May-18,28-May-18,4,33,678,NA,NA,A,5,0 to 2,Ormocarpum trichocarpum,28,0.36,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+421,28-May-18,28-May-18,4,33,686,NA,NA,A,5,0 to 2,Ormocarpum trichocarpum,44,0.43,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+420,28-May-18,28-May-18,4,33,683,NA,NA,A,5,0 to 2,Ormocarpum trichocarpum,68,0.47,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+424,28-May-18,28-May-18,4,33,679,NA,NA,A,5,0 to 2,Ormocarpum trichocarpum,47,0.57,0.34,0.51,0.22,0,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+425,28-May-18,28-May-18,4,33,677,NA,NA,A,5,0 to 2,Commiphora schimperi,67,0.58,0.22,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+418,28-May-18,28-May-18,4,33,684,NA,NA,A,5,0 to 2,Ormocarpum trichocarpum,67,0.66,1.06,0.45,0,0,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+417,28-May-18,28-May-18,4,33,685,NA,NA,A,5,0 to 2,Ormocarpum trichocarpum,41,0.83,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+363,28-May,28-May-18,4,33,No-tag,NA,NA,B,1,0 to 2,Ehretia rigida,20,0.2,0.3,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+364,28-May,28-May-18,4,33,No-tag,NA,NA,B,1,0 to 2,Ehretia rigida,25,0.3,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+365,28-May,28-May-18,4,33,No-tag,NA,NA,B,1,0 to 2,Grewia villosa ,30,0.4,0.5,0.2,0.3,0.4,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+367,28-May,28-May-18,4,33,No-tag,NA,NA,B,2,0 to 2,Grewia villosa ,20,0.5,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+366,28-May,28-May-18,4,33,No-tag,NA,NA,B,2,0 to 2,Ehretia amoena,55,0.5,0.4,0.3,0.5,0.7,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+368,28-May,28-May-18,4,33,No-tag,NA,NA,B,3,0 to 2,Grewia villosa ,50,0.8,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+369,28-May,28-May-18,4,33,No-tag,NA,NA,B,4,0 to 2,Commiphora schimperi,50,0.6,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+370,28-May,28-May-18,4,33,No-tag,NA,NA,B,5,0 to 2,Ormocarpum trichocarpum,15,0.2,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+2,5/26/2018,26-May-18,4,33,99,99,OTS 10,NA,NA,0 to 25,Senegalia nigrescens,500.00,6.2,10.9,12.3,,,3,50,New,N,5,NA,5,od,1,0,0,N,N,Y,Y,Amu
+286,28-May,28-May-18,4,33,No-tag,NA,NA,A,3,2 to 10,Senegalia nigrescens,NA,7,12.9,10.5,,,3,80,Old,N,0,0,0,NA,0,0,0,N,N,Y,N,GarY + DannY
+287,28-May,28-May-18,4,33,no-tag,NA,NA,A,4,2 to 10,Senegalia nigrescens,NA,11.5,8.5,11,,,3,80,Old,N,0,0,0,NA,0,0,0,N,N,Y,N,GarY + DannY
+92,May 28-2020,28-May-18,4,35,841,NA,NA,A,5,0 to 2,Dichrostachys cinerea,150,0.35,1.4,3.4,3.9,1.4,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,NA,Y,Sbo
+88,May 28-2018,28-May-18,4,35,876,NA,NA,A,5,0 to 2,Commiphora schimperi,45,0.51,0.68,0.49,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+89,May 28-2018,28-May-18,4,35,875,NA,NA,A,5,0 to 2,Commiphora schimperi,31,0.67,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+90,May 28-2018,28-May-18,4,35,838,NA,NA,A,5,0 to 2,Commiphora schimperi,110,0.79,0.3,0.34,0.146,0.29,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+87,May 28-2018,28-May-18,4,35,877,NA,NA,A,5,0 to 2,Commiphora schimperi,69,0.83,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+102,May 28-2030,28-May-18,4,35,852,NA,NA,A,5,0 to 2,Ehretia amoena,40.5,2.4,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+97,May 28-2025,28-May-18,4,35,846,NA,NA,A,5,0 to 2,Commiphora schimperi,61,2.8,3.3,8.5,5.3,5.8,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,NA,Y,Sbo
+104,May 28-2032,28-May-18,4,35,855,NA,NA,A,5,0 to 2,Ormocarpum trichocarpum,38,2.9,2.9,,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+93,May 28-2021,28-May-18,4,35,842,NA,NA,A,5,0 to 2,Ehretia amoena,32,3.1,2.9,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+100,May 28-2028,28-May-18,4,35,849,NA,NA,A,5,0 to 2,Commiphora schimperi,38,0.39,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+101,May 28-2029,28-May-18,4,35,850,NA,NA,A,5,0 to 2,Commiphora schimperi,44,0.39,3.97,4.22,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+96,May 28-2024,28-May-18,4,35,845,NA,NA,A,5,0 to 2,Vachellia exuvalias,160,3.9,6.5,4.6,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+91,May 28-2019,28-May-18,4,35,839,NA,NA,A,5,0 to 2,Ehretia amoena,31,0.46,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+105,May 28-2033,28-May-18,4,35,547,NA,NA,A,5,0 to 2,Ormocarpum trichocarpum,105,4.6,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+94,May 28-2022,28-May-18,4,35,843,NA,NA,A,5,0 to 2,Ehretia amoena,41,0.61,6.9,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+106,May 28-2034,28-May-18,4,35,546,NA,NA,A,5,0 to 2,Dichrostachys cinerea,24,0.64,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+95,May 28-2023,28-May-18,4,35,844,NA,NA,A,5,0 to 2,Commiphora schimperi,34,0.69,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+98,May 28-2026,28-May-18,4,35,847,NA,NA,A,5,0 to 2,Commiphora schimperi,54,0.72,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+99,May 28-2027,28-May-18,4,35,848,NA,NA,A,5,0 to 2,Commiphora schimperi,30,0.92,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+103,May 28-2031,28-May-18,4,35,853,NA,NA,A,5,0 to 2,Dichrostachys cinerea,41,1.4,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+392,28-May-18,28-May-18,4,35,958,NA,NA,B,1,0 to 2,Gymnosporia senegalensis,46,0.54,0.59,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+393,28-May-18,28-May-18,4,35,959,NA,NA,B,1,0 to 2,Ehretia rigida,66,0.65,0.27,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+390,28-May-18,28-May-18,4,35,956,NA,NA,B,1,0 to 2,Dichrostachys cinerea,90,0.69,0.62,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+391,28-May-18,28-May-18,4,35,957,NA,NA,B,1,0 to 2,Gymnosporia senegalensis,82,1.05,0.58,1.18,0.95,0.59,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+397,28-May-18,28-May-18,4,35,963,NA,NA,B,2,0 to 2,Ormocarpum trichocarpum,31,0.33,0.47,0.41,0.61,0.41,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+394,28-May-18,28-May-18,4,35,960,NA,NA,B,2,0 to 2,Ehretia rigida,38,0.35,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+395,28-May-18,28-May-18,4,35,961,NA,NA,B,2,0 to 2,Ehretia rigida,40,0.37,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+396,28-May-18,28-May-18,4,35,962,NA,NA,B,2,0 to 2,Ehretia rigida,33,0.59,0.55,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+343,28-May,28-May-18,4,35,566,NA,NA,B,3,0 to 2,Ehretia rigida,10,0.2,0.3,0.3,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+344,28-May,28-May-18,4,35,565,NA,NA,B,3,0 to 2,Ehretia rigida,15,0.3,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+345,28-May,28-May-18,4,35,564,NA,NA,B,3,0 to 2,Ehretia rigida,25,0.3,0.2,0.4,0.4,0.5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+342,28-May,28-May-18,4,35,567,NA,NA,B,3,0 to 2,Ehretia rigida,30,0.3,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+346,28-May,28-May-18,4,35,563,NA,NA,B,3,0 to 2,Ehretia rigida,30,0.3,0.4,0.4,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+350,28-May,28-May-18,4,35,559,NA,NA,B,3,0 to 2,Ehretia rigida,30,0.3,0.2,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+351,28-May,28-May-18,4,35,558,NA,NA,B,3,0 to 2,Ehretia amoena,50,0.3,0.5,0.3,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+339,28-May,28-May-18,4,35,570,NA,NA,B,3,0 to 2,Ehretia rigida,30,0.4,0.4,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+349,28-May,28-May-18,4,35,560,NA,NA,B,3,0 to 2,Ehretia rigida,30,0.4,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+340,28-May,28-May-18,4,35,569,NA,NA,B,3,0 to 2,Ehretia rigida,30,0.5,0.3,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+341,28-May,28-May-18,4,35,568,NA,NA,B,3,0 to 2,Ehretia rigida,30,0.6,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+348,28-May,28-May-18,4,35,561,NA,NA,B,3,0 to 2,Ehretia rigida,20,0.7,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+347,28-May,28-May-18,4,35,562,NA,NA,B,3,0 to 2,Ehretia rigida,30,0.7,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+403,28-May-18,28-May-18,4,35,969,NA,NA,B,4,0 to 2,Ehretia rigida,34,0.33,0.49,0.39,0,0,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+404,28-May-18,28-May-18,4,35,979,NA,NA,B,4,0 to 2,Ormocarpum trichocarpum,31,0.43,0.31,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+402,28-May-18,28-May-18,4,35,968,NA,NA,B,4,0 to 2,Ehretia rigida,42,0.46,0.31,0.59,0.27,0,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+398,28-May-18,28-May-18,4,35,964,NA,NA,B,4,0 to 2,Ehretia rigida,36,0.49,0.43,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+399,28-May-18,28-May-18,4,35,965,NA,NA,B,4,0 to 2,Ehretia rigida,32,0.52,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+401,28-May-18,28-May-18,4,35,967,NA,NA,B,4,0 to 2,Ehretia rigida,28,0.66,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+400,28-May-18,28-May-18,4,35,966,NA,NA,B,4,0 to 2,Ehretia rigida,45,0.78,0.46,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+335,28-May,28-May-18,4,35,702,NA,NA,B,5,0 to 2,Commiphora schimperi,15,0.18,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+338,28-May,28-May-18,4,35,727,NA,NA,B,5,0 to 2,Commiphora schimperi,37,0.4,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+336,28-May,28-May-18,4,35,857,NA,NA,B,5,0 to 2,Commiphora schimperi,41,0.4,0.59,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+337,28-May,28-May-18,4,35,726,NA,NA,B,5,0 to 2,Commiphora schimperi,62,0.6,0.4,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+332,28-May,28-May-18,4,35,701,NA,NA,B,5,0 to 2,Commiphora schimperi,45,0.7,0.7,0.8,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+329,28-May,28-May-18,4,35,780,NA,NA,B,5,0 to 2,Commiphora schimperi,90,0.74,0.7,0.6,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+334,28-May,28-May-18,4,35,784,NA,NA,B,5,0 to 2,Commiphora schimperi,27,0.8,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+333,28-May,28-May-18,4,35,783,NA,NA,B,5,0 to 2,Commiphora schimperi,30,0.9,0.5,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+331,28-May,28-May-18,4,35,781,NA,NA,B,5,0 to 2,Dichrostachys cinerea,80,1.05,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+330,28-May,28-May-18,4,35,782,NA,NA,B,5,0 to 2,Commiphora schimperi,85,1.5,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+277,28-May,28-May-18,4,35,778,NA,NA,A,5,2 to 10,Senegalia nigrescens,430.00,22.6,,,,,1,10,Old,Y,0,0,0,NA,0,0,0,N,Y,Y,Y,GarY + DannY
+278,28-May,28-May-18,4,35,779,NA,NA,B,5,2 to 10,Senegalia nigrescens,320.00,8.5,,,,,1,15,Old,N,0,0,0,NA,0,0,0,N,N,Y,Y,GarY + DannY
+405,28-May-18,28-May-18,4,37,978,NA,NA,A,1,0 to 2,Commiphora schimperi,62,0.29,5.2,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+406,28-May-18,28-May-18,4,37,980,NA,NA,A,2,0 to 2,Ehretia rigida,34,0.27,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+407,28-May-18,28-May-18,4,37,981,NA,NA,A,2,0 to 2,Ehretia rigida,39,0.44,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+408,28-May-18,28-May-18,4,37,182,NA,NA,A,4,0 to 2,Ormocarpum trichocarpum,25,0.23,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+410,28-May-18,28-May-18,4,37,974,NA,NA,A,4,0 to 2,Ehretia rigida,25,0.26,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+409,28-May-18,28-May-18,4,37,971,NA,NA,A,4,0 to 2,Ormocarpum trichocarpum,20,0.411,0.5,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+411,28-May-18,28-May-18,4,37,975,NA,NA,A,4,0 to 2,Ehretia rigida,14,0.53,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+412,28-May-18,28-May-18,4,37,973,NA,NA,A,4,0 to 2,Ormocarpum trichocarpum,38,0.67,0.32,0.49,0,0,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+413,28-May-18,28-May-18,4,37,972,NA,NA,A,5,0 to 2,Ormocarpum trichocarpum,42,0.44,0.22,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+414,28-May-18,28-May-18,4,37,970,NA,NA,A,5,0 to 2,Ehretia rigida,57,0.48,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Amu and Phindile
+352,28-May,28-May-18,4,37,557,NA,NA,B,3,0 to 2,Ehretia rigida,45,0.1,0.2,0.2,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+355,28-May,28-May-18,4,37,545,NA,NA,B,3,0 to 2,Ehretia amoena,35,0.2,0.3,0.4,0.2,0.3,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+356,28-May,28-May-18,4,37,544,NA,NA,B,3,0 to 2,Ehretia amoena,35,0.2,0.2,0.5,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+357,28-May,28-May-18,4,37,543,NA,NA,B,3,0 to 2,Ormocarpum trichocarpum,45,0.2,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+354,28-May,28-May-18,4,37,555,NA,NA,B,3,0 to 2,Ehretia rigida,40,0.3,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+353,28-May,28-May-18,4,37,556,NA,NA,B,3,0 to 2,Ehretia rigida,35,0.4,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+359,28-May,28-May-18,4,37,No-tag,NA,NA,B,4,0 to 2,Ehretia rigida,25,0.1,0.3,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+358,28-May,28-May-18,4,37,542,NA,NA,B,4,0 to 2,Ehretia rigida,30,0.2,0.3,0.2,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+360,28-May,28-May-18,4,37,No-tag,NA,NA,B,5,0 to 2,Ehretia rigida,45,0.1,0.2,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+361,28-May,28-May-18,4,37,No-tag,NA,NA,B,5,0 to 2,Ehretia rigida,45,0.3,,,,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+362,28-May,28-May-18,4,37,No-tag,NA,NA,B,5,0 to 2,Ormocarpum trichocarpum,40,0.6,0.6,,,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,GarY + DannY
+3,5/26/2018,26-May-18,4,37,98,98,OTS 10,NA,NA,0 to 25,Senegalia nigrescens,550.00,12.5,11.9,,,,2,1,Old,N,15 +15,30,30,New,60,0,0,N,N,Y,Y,Amu
+279,28-May,28-May-18,4,37,728,NA,NA,A,2,2 to 10,Senegalia nigrescens,320.00,8.3,8.6,,,,2,5,Old,N,0,0,0,NA,0,0,0,N,N,Y,Y,GarY + DannY
+280,28-May,28-May-18,4,37,729,NA,NA,A,3,2 to 10,Senegalia nigrescens,200.00,5.4,8.7,,,,2,50,Old,Y,0,0,0,NA,0,0,0,N,N,Y,Y,GarY + DannY
+282,28-May,28-May-18,4,37,730,NA,NA,A,3,2 to 10,Senegalia nigrescens,210.00,10.4,5.9,,,,2,70,Old,N,0,0,0,NA,0,0,0,N,N,Y,N,GarY + DannY
+285,28-May,28-May-18,4,37,731,NA,NA,A,5,2 to 10,Senegalia nigrescens,170.00,8.9,6.2,,,,2,80,New,Y,0,0,0,NA,0,0,0,N,N,Y,Y,GarY + DannY
+283,28-May,28-May-18,4,37,541,NA,NA,B,2,2 to 10,Senegalia nigrescens,300.00,7.2,,,,,1,20,Old,N,2,0,1,Old,50,0,0,N,N,N,Y,GarY + DannY
+281,28-May,28-May-18,4,37,No-tag,NA,NA,B,2,2 to 10,Senegalia nigrescens,270.00,14,,,,,1,0,NA,N,0,0,0,NA,0,0,0,Y,N,Y,N,GarY + DannY
+284,28-May,28-May-18,4,37,540,NA,NA,B,3,2 to 10,Senegalia nigrescens,350.00,13.1,8.3,7.5,13.1,,3,2,Old,N,30,0,10,NA,20,100,0,N,N,N,Y,GarY + DannY
+831,5/30/2018,30-May-18,5,38,450,NA,NA,B,1,0 to 2,Senegalia nigrescens,20,0.4,0.3,0.3,0.1,0.1,7,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+832,5/30/2018,30-May-18,5,38,451,NA,NA,B,1,0 to 2,Gymnosporia senegalensis,40,0.9,-,-,-,-,1,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+817,5/30/2018,30-May-18,5,38,436,NA,NA,B,2,0 to 2,Ormocarpum trichocarpum,15,0.2,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+828,5/30/2018,30-May-18,5,38,447,NA,NA,B,2,0 to 2,Ormocarpum trichocarpum,15,0.3,0.3,0.2,-,-,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+826,5/30/2018,30-May-18,5,38,445,NA,NA,B,2,0 to 2,Gymnosporia senegalensis,50,0.3,0.6,0.4,-,-,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+830,5/30/2018,30-May-18,5,38,449,NA,NA,B,2,0 to 2,Senegalia nigrescens,35,0.4,0.3,0.1,0.2,0.2,15,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+823,5/30/2018,30-May-18,5,38,442,NA,NA,B,2,0 to 2,Gymnosporia senegalensis,20,0.5,0.6,-,-,-,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+829,5/30/2018,30-May-18,5,38,448,NA,NA,B,2,0 to 2,Gymnosporia senegalensis,40,0.5,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+815,5/30/2018,30-May-18,5,38,434,NA,NA,B,2,0 to 2,Gymnosporia senegalensis,50,0.5,0.4,-,-,-,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+824,5/30/2018,30-May-18,5,38,443,NA,NA,B,2,0 to 2,Gymnosporia senegalensis,80,0.5,0.8,0.4,0.4,-,4,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+825,5/30/2018,30-May-18,5,38,444,NA,NA,B,2,0 to 2,Ormocarpum trichocarpum,45,0.7,0.7,-,-,-,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+811,5/30/2018,30-May-18,5,38,430,NA,NA,B,2,0 to 2,Gymnosporia senegalensis,90,0.7,1.2,0.4,0.4,0.9,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+818,5/30/2018,30-May-18,5,38,437,NA,NA,B,2,0 to 2,Gymnosporia senegalensis,30,0.8,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+812,5/30/2018,30-May-18,5,38,431,NA,NA,B,2,0 to 2,Gymnosporia senegalensis,85,0.9,0.4,-,-,-,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+827,5/30/2018,30-May-18,5,38,446,NA,NA,B,2,0 to 2,Ziziphus mucronata,90,0.9,1.5,0.4,0.3,0.8,5,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+810,5/30/2018,30-May-18,5,38,429,NA,NA,B,2,0 to 2,Ormocarpum trichocarpum,100,0.9,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+813,5/30/2018,30-May-18,5,38,432,NA,NA,B,2,0 to 2,Gymnosporia senegalensis,90,1.0,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+819,5/30/2018,30-May-18,5,38,438,NA,NA,B,2,0 to 2,Gymnosporia senegalensis,150,1.0,1.2,0.4,0.3,0.9,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+822,5/30/2018,30-May-18,5,38,441,NA,NA,B,2,0 to 2,Gymnosporia senegalensis,80,1.2,0.5,0.4,-,-,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+809,5/30/2018,30-May-18,5,38,428,NA,NA,B,2,0 to 2,Gymnosporia senegalensis,110,1.4,0.9,0.8,1.2,1.3,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+820,5/30/2018,30-May-18,5,38,439,NA,NA,B,2,0 to 2,Gymnosporia senegalensis,100,1.7,1.0,1.5,0.5,1.5,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+821,5/30/2018,30-May-18,5,38,440,NA,NA,B,2,0 to 2,Gymnosporia senegalensis,110,1.7,1.0,-,-,-,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+816,5/30/2018,30-May-18,5,38,435,NA,NA,B,2,0 to 2,Gymnosporia senegalensis,115,2.0,0.9,0.5,-,-,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+805,5/30/2018,30-May-18,5,38,424,NA,NA,B,3,0 to 2,Gymnosporia senegalensis,20,0.4,0.3,-,-,-,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+804,5/30/2018,30-May-18,5,38,423,NA,NA,B,3,0 to 2,Gymnosporia senegalensis,25,0.4,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+808,5/30/2018,30-May-18,5,38,427,NA,NA,B,3,0 to 2,Gymnosporia senegalensis,40,0.4,0.4,0.4,-,-,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+807,5/30/2018,30-May-18,5,38,426,NA,NA,B,3,0 to 2,Gymnosporia senegalensis,80,0.9,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+806,5/30/2018,30-May-18,5,38,425,NA,NA,B,3,0 to 2,Gymnosporia senegalensis,40,1.2,0.6,0.3,-,-,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+814,5/30/2018,30-May-18,5,38,433,NA,NA,B,3,0 to 2,Gymnosporia senegalensis,70,1.2,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+800,5/30/2018,30-May-18,5,38,419,NA,NA,B,4,0 to 2,Ormocarpum trichocarpum,50,0.1,0.4,-,-,-,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+801,5/30/2018,30-May-18,5,38,420,NA,NA,B,4,0 to 2,Ormocarpum trichocarpum,20,0.2,0.2,-,-,-,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+803,5/30/2018,30-May-18,5,38,422,NA,NA,B,4,0 to 2,Vachellia gerrardii,45,0.4,0.5,-,-,-,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+802,5/30/2018,30-May-18,5,38,421,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,35,0.5,0.3,0.9,-,-,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+790,5/30/2018,30-May-18,5,38,473,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,40,0.5,0.7,-,-,-,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+797,5/30/2018,30-May-18,5,38,416,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,60,0.7,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+792,5/30/2018,30-May-18,5,38,411,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,60,0.9,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+793,5/30/2018,30-May-18,5,38,412,NA,NA,B,4,0 to 2,Vachellia gerrardii,70,0.9,0.4,0.3,5.0,,4,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+799,5/30/2018,30-May-18,5,38,418,NA,NA,B,4,0 to 2,Ormocarpum trichocarpum,110,0.9,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+791,5/30/2018,30-May-18,5,38,472,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,90,1.0,0.7,0.7,0.9,-,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+798,5/30/2018,30-May-18,5,38,417,NA,NA,B,4,0 to 2,Senegalia nigrescens,30,1.2,-,-,-,-,1,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+796,5/30/2018,30-May-18,5,38,415,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,80,1.4,1.7,0.4,0.2,1.4,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+795,5/30/2018,30-May-18,5,38,414,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,120,1.5,0.9,0.7,0.7,,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+794,5/30/2018,30-May-18,5,38,413,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,90,1.8,1.4,-,-,-,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+771,5/30/2018,30-May-18,5,38,401,NA,NA,B,5,0 to 2,Vachellia gerrardii,75,0.1,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+781,5/30/2018,30-May-18,5,38,482,NA,NA,B,5,0 to 2,Senegalia nigrescens,30,0.5,0.5,0.4,0.5,0.5,7,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+782,5/30/2018,30-May-18,5,38,481,NA,NA,B,5,0 to 2,Senegalia nigrescens,30,0.6,0.6,0.7,0.6,0.2,6,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+780,5/30/2018,30-May-18,5,38,410,NA,NA,B,5,0 to 2,Gymnosporia senegalensis,45,0.6,0.7,-,-,-,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+777,5/30/2018,30-May-18,5,38,407,NA,NA,B,5,0 to 2,Gymnosporia senegalensis,90,0.6,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+789,5/30/2018,30-May-18,5,38,474,NA,NA,B,5,0 to 2,Gymnosporia senegalensis,60,0.8,0.6,0.8,-,-,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+786,5/30/2018,30-May-18,5,38,477,NA,NA,B,5,0 to 2,Gymnosporia senegalensis,80,0.8,1.3,-,-,-,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+785,5/30/2018,30-May-18,5,38,478,NA,NA,B,5,0 to 2,Gymnosporia senegalensis,40,1.1,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+788,5/30/2018,30-May-18,5,38,475,NA,NA,B,5,0 to 2,Gymnosporia senegalensis,170,1.4,0.7,0.8,2.2,1.5,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+776,5/30/2018,30-May-18,5,38,406,NA,NA,B,5,0 to 2,Gymnosporia senegalensis,120,1.5,0.1,0.6,0.5,0.7,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+784,5/30/2018,30-May-18,5,38,479,NA,NA,B,5,0 to 2,Gymnosporia senegalensis,150,1.5,1.5,1.9,-,-,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+775,5/30/2018,30-May-18,5,38,405,NA,NA,B,5,0 to 2,Gymnosporia senegalensis,130,1.6,0.9,0.8,,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+774,5/30/2018,30-May-18,5,38,404,NA,NA,B,5,0 to 2,Gymnosporia senegalensis,180,1.9,1.0,-,-,-,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+783,5/30/2018,30-May-18,5,38,480,NA,NA,B,5,0 to 2,Gymnosporia senegalensis,150,2.0,2.2,1.7,-,-,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+773,5/30/2018,30-May-18,5,38,403,NA,NA,B,5,0 to 2,Gymnosporia senegalensis,140,2.4,0.5,0.6,-,-,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+778,5/30/2018,30-May-18,5,38,408,NA,NA,B,5,0 to 2,Gymnosporia senegalensis,170,2.4,2.0,-,-,-,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+779,5/30/2018,30-May-18,5,38,409,NA,NA,B,5,0 to 2,Gymnosporia senegalensis,20,2.6,2.8,2.2,0.5,1.0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+787,5/30/2018,30-May-18,5,38,476,NA,NA,B,5,0 to 2,Gymnosporia senegalensis,120,2.6,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+772,5/30/2018,30-May-18,5,38,402,NA,NA,B,5,0 to 2,Gymnosporia senegalensis,150,3.0,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+733,30/05/18,30-May-18,5,40,1487,NA,NA,A,1,0 to 2,Ehretia rigida,10,0.17,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+769,30/05/18,30-May-18,5,40,1462,NA,NA,A,1,0 to 2,Ehretia rigida,20,0.2,0.34,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+746,30/05/18,30-May-18,5,40,1477,NA,NA,A,1,0 to 2,Ehretia rigida,50,0.2,0.275,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+754,30/05/18,30-May-18,5,40,1474,NA,NA,A,1,0 to 2,Ehretia rigida,30,0.21,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+755,30/05/18,30-May-18,5,40,1473,NA,NA,A,1,0 to 2,Ehretia rigida,30,0.21,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+734,30/05/18,30-May-18,5,40,1486,NA,NA,A,1,0 to 2,Ehretia rigida,25,0.25,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+736,30/05/18,30-May-18,5,40,1484,NA,NA,A,1,0 to 2,Ehretia rigida,25,0.254,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+768,30/05/18,30-May-18,5,40,1463,NA,NA,A,1,0 to 2,Ehretia rigida,30,0.26,0.32,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+741,30/05/18,30-May-18,5,40,1426,NA,NA,A,1,0 to 2,Ehretia rigida,50,0.266,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+742,30/05/18,30-May-18,5,40,1427,NA,NA,A,1,0 to 2,Ehretia rigida,40,0.288,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+759,30/05/18,30-May-18,5,40,1470,NA,NA,A,1,0 to 2,Ehretia rigida,25,0.29,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+760,30/05/18,30-May-18,5,40,1471,NA,NA,A,1,0 to 2,Ehretia rigida,30,0.3,0.43,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+761,30/05/18,30-May-18,5,40,1472,NA,NA,A,1,0 to 2,Ehretia rigida,50,0.31,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+739,30/05/18,30-May-18,5,40,1421,NA,NA,A,1,0 to 2,Ehretia rigida,50,0.313,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+753,30/05/18,30-May-18,5,40,1928,NA,NA,A,1,0 to 2,Ehretia rigida,30,0.33,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+744,30/05/18,30-May-18,5,40,1481,NA,NA,A,1,0 to 2,Ehretia rigida,40,0.338,0.165,0.466,0.193,0,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+748,30/05/18,30-May-18,5,40,1428,NA,NA,A,1,0 to 2,Ehretia rigida,35,0.35,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+749,30/05/18,30-May-18,5,40,1479,NA,NA,A,1,0 to 2,Ehretia rigida,35,0.35,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+763,30/05/18,30-May-18,5,40,1468,NA,NA,A,1,0 to 2,Ehretia rigida,55,0.39,0.56,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+767,30/05/18,30-May-18,5,40,1464,NA,NA,A,1,0 to 2,Ehretia rigida,30,0.4,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+758,30/05/18,30-May-18,5,40,1472,NA,NA,A,1,0 to 2,Ehretia rigida,50,0.4,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+738,30/05/18,30-May-18,5,40,1423,NA,NA,A,1,0 to 2,Ehretia rigida,40,0.403,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+751,30/05/18,30-May-18,5,40,1480,NA,NA,A,1,0 to 2,Ehretia rigida,30,0.41,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+737,30/05/18,30-May-18,5,40,1483,NA,NA,A,1,0 to 2,Ehretia rigida,50,0.413,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+757,30/05/18,30-May-18,5,40,1431,NA,NA,A,1,0 to 2,Ehretia rigida,25,0.42,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+750,30/05/18,30-May-18,5,40,1429,NA,NA,A,1,0 to 2,Ehretia rigida,35,0.43,0.173,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+747,30/05/18,30-May-18,5,40,1478,NA,NA,A,1,0 to 2,Ehretia rigida,30,0.44,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+745,30/05/18,30-May-18,5,40,1476,NA,NA,A,1,0 to 2,Ehretia rigida,50,0.472,0.52,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+756,30/05/18,30-May-18,5,40,1430,NA,NA,A,1,0 to 2,Ehretia rigida,45,0.5,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+732,30/05/18,30-May-18,5,40,1427,NA,NA,A,1,0 to 2,Ehretia rigida,10,0.505,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+735,30/05/18,30-May-18,5,40,1485,NA,NA,A,1,0 to 2,Ehretia rigida,50,0.521,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+752,30/05/18,30-May-18,5,40,1475,NA,NA,A,1,0 to 2,Ehretia rigida,30,0.54,0.33,0.24,0,0,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+740,30/05/18,30-May-18,5,40,1424,NA,NA,A,1,0 to 2,Ehretia rigida,50,0.564,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+743,30/05/18,30-May-18,5,40,1482,NA,NA,A,1,0 to 2,Ehretia rigida,45,0.58,0.24,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+764,30/05/18,30-May-18,5,40,1467,NA,NA,A,1,0 to 2,Ehretia rigida,50,0.59,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+765,30/05/18,30-May-18,5,40,1465,NA,NA,A,1,0 to 2,Ehretia rigida,20,0.6,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+766,30/05/18,30-May-18,5,40,1466,NA,NA,A,1,0 to 2,Ehretia rigida,30,0.66,0,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+762,30/05/18,30-May-18,5,40,1469,NA,NA,A,1,0 to 2,Ehretia rigida,50,0.81,1.13,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+716,30/05/18,30-May-18,5,42,638,NA,NA,A,1,0 to 2,Ehretia rigida,40,0.15,0.485,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+727,30/05/18,30-May-18,5,42,OTS 1X27,NA,NA,A,1,0 to 2,Ehretia rigida,40,0.22,0.4,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+728,30/05/18,30-May-18,5,42,0TS 1633,NA,NA,A,1,0 to 2,Ehretia rigida,20,0.23,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+726,30/05/18,30-May-18,5,42,OTS DV,NA,NA,A,1,0 to 2,Ehretia rigida,25,0.25,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+665,30-May-18,30-May-18,5,42,,NA,1695,A,1,0 to 2,Senegalia nigrescens,35,0.3,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+725,30/05/18,30-May-18,5,42,OTS PV1,NA,NA,A,1,0 to 2,Ehretia rigida,20,0.33,0.19,0.42,0.51,0,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+662,30-May-18,30-May-18,5,42,,NA,1498,A,1,0 to 2,Gymnosporia senegalensis,20,0.38,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+666,30-May-18,30-May-18,5,42,,NA,1494,A,1,0 to 2,Senegalia nigrescens,40,0.39,0.32,0.3,0,0,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+661,30-May-18,30-May-18,5,42,,NA,1499,A,1,0 to 2,Senegalia nigrescens,50,0.43,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+730,30/05/18,30-May-18,5,42,1674,NA,NA,A,1,0 to 2,Gymnosporia senegalensis,60,0.46,0.85,0.42,0,0,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+721,30/05/18,30-May-18,5,42,673,NA,NA,A,1,0 to 2,Gymnosporia senegalensis,50,0.55,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+724,30/05/18,30-May-18,5,42,axah,NA,NA,A,1,0 to 2,Gymnosporia senegalensis,40,0.57,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+719,30/05/18,30-May-18,5,42,665,NA,NA,A,1,0 to 2,Gymnosporia senegalensis,40,0.68,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+715,30/05/18,30-May-18,5,42,647,NA,NA,A,1,0 to 2,Gymnosporia senegalensis,40,0.69,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+660,30-May-18,30-May-18,5,42,,NA,1500,A,1,0 to 2,Senegalia nigrescens,50,0.7,0.59,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+723,30/05/18,30-May-18,5,42,OTS FV,NA,NA,A,1,0 to 2,Gymnosporia senegalensis,40,0.84,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+720,30/05/18,30-May-18,5,42,672,NA,NA,A,1,0 to 2,Gymnosporia senegalensis,50,0.84,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+718,30/05/18,30-May-18,5,42,644,NA,NA,A,1,0 to 2,Gymnosporia senegalensis,60,1.01,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+659,30-May-18,30-May-18,5,42,,NA,1675,A,1,0 to 2,Gymnosporia senegalensis,60,1.02,1.05,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+663,30-May-18,30-May-18,5,42,,NA,1497,A,1,0 to 2,Gymnosporia senegalensis,80,1.08,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+722,30/05/18,30-May-18,5,42,OTS DV,NA,NA,A,1,0 to 2,Gymnosporia senegalensis,90,1.31,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+664,30-May-18,30-May-18,5,42,,NA,1496,A,1,0 to 2,Senegalia nigrescens,55,1.48,0.95,0.42,1.39,0,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+717,30/05/18,30-May-18,5,42,637,NA,NA,A,1,0 to 2,Gymnosporia senegalensis,60,1.52,1.37,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+731,30/05/18,30-May-18,5,42,OTS,NA,NA,A,1,0 to 2,Gymnosporia senegalensis,130,2.18,0.8,2.19,0,0,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+675,30-May-18,30-May-18,5,42,,NA,1403,A,2,0 to 2,Ehretia rigida,40,0.33,0.22,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+677,30-May-18,30-May-18,5,42,,NA,1405,A,2,0 to 2,Ehretia rigida,35,0.341,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+667,30-May-18,30-May-18,5,42,,NA,1493,A,2,0 to 2,Gymnosporia senegalensis,50,0.38,0.83,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+671,30-May-18,30-May-18,5,42,,NA,1489,A,2,0 to 2,Ehretia rigida,50,0.41,0.42,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+676,30-May-18,30-May-18,5,42,,NA,1404,A,2,0 to 2,Ehretia rigida,40,0.42,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+672,30-May-18,30-May-18,5,42,,NA,1488,A,2,0 to 2,Gymnosporia senegalensis,55,0.46,0.67,0.37,0.79,1.01,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+670,30-May-18,30-May-18,5,42,,NA,1490,A,2,0 to 2,Gymnosporia senegalensis,50,0.5,0.9,0.9,0,0,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+668,30-May-18,30-May-18,5,42,,NA,1492,A,2,0 to 2,Gymnosporia senegalensis,60,1.19,0.74,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+673,30-May-18,30-May-18,5,42,,NA,1401,A,2,0 to 2,Gymnosporia senegalensis,150,2,2.92,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+669,30-May-18,30-May-18,5,42,,NA,1491,A,2,0 to 2,Gymnosporia senegalensis,140,2.3,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+674,30-May-18,30-May-18,5,42,,NA,1402,A,2,0 to 2,Gymnosporia senegalensis,120,2.43,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+684,30-May-18,30-May-18,5,42,,NA,1412,A,3,0 to 2,Ehretia rigida,35,0.33,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+678,30-May-18,30-May-18,5,42,,NA,1406,A,3,0 to 2,Ehretia rigida,45,0.33,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+680,30-May-18,30-May-18,5,42,,NA,1408,A,3,0 to 2,Ehretia rigida,40,0.4,0.23,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+682,30-May-18,30-May-18,5,42,,NA,1410,A,3,0 to 2,Ehretia rigida,40,0.53,0.34,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+683,30-May-18,30-May-18,5,42,,NA,1411,A,3,0 to 2,Ehretia rigida,35,0.63,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+679,30-May-18,30-May-18,5,42,,NA,1407,A,3,0 to 2,Ehretia rigida,30,0.74,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+681,30-May-18,30-May-18,5,42,,NA,1409,A,3,0 to 2,Ehretia rigida,40,0.88,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+689,30-May-18,30-May-18,5,42,,NA,1417,A,4,0 to 2,Ehretia rigida,26,0.18,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+686,30-May-18,30-May-18,5,42,,NA,1414,A,4,0 to 2,Ehretia rigida,35,0.26,0.37,0.27,0.3,0.54,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+687,30-May-18,30-May-18,5,42,,NA,1415,A,4,0 to 2,Ehretia rigida,30,0.35,0.34,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+688,30-May-18,30-May-18,5,42,,NA,1416,A,4,0 to 2,Ehretia rigida,30,0.37,0.35,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+685,30-May-18,30-May-18,5,42,,NA,1413,A,4,0 to 2,Ehretia rigida,40,0.38,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+690,30-May-18,30-May-18,5,42,,NA,1418,A,4,0 to 2,Gymnosporia senegalensis,50,0.6,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+691,30-May-18,30-May-18,5,42,,NA,1419,A,4,0 to 2,Gymnosporia senegalensis,71,0.99,0.72,1.03,0,0,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+692,30-May-18,30-May-18,5,42,,NA,1420,A,5,0 to 2,Senegalia nigrescens,45,0.33,0.53,0.67,0.27,0.46,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Phindile
+698,30/05/18,30-May-18,5,42,656,NA,NA,A ,1,0 to 2,Ehretia rigida,40,0.196,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+713,30/05/18,30-May-18,5,42,471,NA,NA,A ,1,0 to 2,Ehretia rigida,40,0.24,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+714,30/05/18,30-May-18,5,42,623,NA,NA,A ,1,0 to 2,Ehretia rigida,20,0.33,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+699,30/05/18,30-May-18,5,42,657,NA,NA,A ,1,0 to 2,Gymnosporia senegalensis,50,0.41,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+696,30/05/18,30-May-18,5,42,632,NA,NA,A ,1,0 to 2,Gymnosporia senegalensis,30,0.42,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+694,30/05/18,30-May-18,5,42,631,NA,NA,A ,1,0 to 2,Gymnosporia senegalensis,30,0.447,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+697,30/05/18,30-May-18,5,42,652,NA,NA,A ,1,0 to 2,Ehretia rigida,40,0.46,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+695,30/05/18,30-May-18,5,42,650,NA,NA,A ,1,0 to 2,Gymnosporia senegalensis,30,0.487,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+706,30/05/18,30-May-18,5,42,660,NA,NA,A ,1,0 to 2,Gymnosporia senegalensis,150,0.64,1.72,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+711,30/05/18,30-May-18,5,42,470,NA,NA,A ,1,0 to 2,Gymnosporia senegalensis,50,0.71,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+707,30/05/18,30-May-18,5,42,649,NA,NA,A ,1,0 to 2,Ormocarpum trichocarpum,40,0.84,0.25,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+710,30/05/18,30-May-18,5,42,648,NA,NA,A ,1,0 to 2,Gymnosporia senegalensis,80,1.01,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+703,30/05/18,30-May-18,5,42,653,NA,NA,A ,1,0 to 2,Gymnosporia senegalensis,160,1.13,0.72,1.5,0.78,2.26,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+702,30/05/18,30-May-18,5,42,630,NA,NA,A ,1,0 to 2,Gymnosporia senegalensis,60,1.15,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+701,30/05/18,30-May-18,5,42,629,NA,NA,A ,1,0 to 2,Gymnosporia senegalensis,150,1.34,0.96,2.4,2.1,0.6,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+708,30/05/18,30-May-18,5,42,661,NA,NA,A ,1,0 to 2,Gymnosporia senegalensis,100,1.42,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+712,30/05/18,30-May-18,5,42,643,NA,NA,A ,1,0 to 2,Senegalia nigrescens,40,1.53,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+704,30/05/18,30-May-18,5,42,651,NA,NA,A ,1,0 to 2,Gymnosporia senegalensis,150,1.76,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+709,30/05/18,30-May-18,5,42,469,NA,NA,A ,1,0 to 2,Gymnosporia senegalensis,170,2.67,1.51,0,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+700,30/05/18,30-May-18,5,42,659,NA,NA,A ,1,0 to 2,Gymnosporia senegalensis,45,0.38,0.31,0.86,0.68,0.42,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+705,30/05/18,30-May-18,5,42,634,NA,NA,A ,1,0 to 2,Gymnosporia senegalensis,80,1.6,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Sbo
+844,5/30/2018,30-May-18,5,42,463,NA,NA,B,1,0 to 2,Ehrethia rigidia,10,0.1,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+857,5/30/2018,30-May-18,5,42,OTS 1425,NA,NA,B,1,0 to 2,Ehrethia rigidia,20,0.2,0.1,-,-,-,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+843,5/30/2018,30-May-18,5,42,462,NA,NA,B,1,0 to 2,Ehrethia rigidia,15,0.3,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+842,5/30/2018,30-May-18,5,42,461,NA,NA,B,1,0 to 2,Ehrethia rigidia,20,0.3,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+855,5/30/2018,30-May-18,5,42,OTS 1422,NA,NA,B,1,0 to 2,Ehrethia rigidia,25,0.3,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+841,5/30/2018,30-May-18,5,42,460,NA,NA,B,1,0 to 2,Ehrethia rigidia,20,0.4,0.2,-,-,-,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+840,5/30/2018,30-May-18,5,42,459,NA,NA,B,1,0 to 2,Ehrethia rigidia,25,0.4,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+859,5/30/2018,30-May-18,5,42,OTS 1421,NA,NA,B,1,0 to 2,Senegalia nigrescens,25,0.4,0.2,0.2,0.4,0.1,5,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+836,5/30/2018,30-May-18,5,42,455,NA,NA,B,1,0 to 2,Gymnosporia senegalensis,20,0.5,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+837,5/30/2018,30-May-18,5,42,456,NA,NA,B,1,0 to 2,Gymnosporia senegalensis,25,0.5,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+838,5/30/2018,30-May-18,5,42,457,NA,NA,B,1,0 to 2,Gymnosporia senegalensis,25,0.5,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+845,5/30/2018,30-May-18,5,42,464,NA,NA,B,1,0 to 2,Ehrethia rigidia,30,0.5,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+846,5/30/2018,30-May-18,5,42,465,NA,NA,B,1,0 to 2,Ehrethia rigidia,30,0.5,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+858,5/30/2018,30-May-18,5,42,OTS 1426,NA,NA,B,1,0 to 2,Ehrethia rigidia,35,0.5,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+833,5/30/2018,30-May-18,5,42,452,NA,NA,B,1,0 to 2,Gymnosporia senegalensis,130,0.5,1.5,1.0,2.5,0.5,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+851,5/30/2018,30-May-18,5,42,468,NA,NA,B,1,0 to 2,Gymnosporia senegalensis,50,0.6,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+839,5/30/2018,30-May-18,5,42,458,NA,NA,B,1,0 to 2,Gymnosporia senegalensis,40,0.7,0.5,0.5,0.6,,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+835,5/30/2018,30-May-18,5,42,454,NA,NA,B,1,0 to 2,Gymnosporia senegalensis,55,0.8,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+852,5/30/2018,30-May-18,5,42,466,NA,NA,B,1,0 to 2,Gymnosporia senegalensis,145,1.2,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+834,5/30/2018,30-May-18,5,42,453,NA,NA,B,1,0 to 2,Ormocarpum trichocarpum,100,1.3,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+847,5/30/2018,30-May-18,5,42,TSS,NA,NA,B,1,0 to 2,Gymnosporia senegalensis,120,1.4,1.3,0.9,-,-,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+861,5/30/2018,30-May-18,5,42,OTS 1420,NA,NA,B,1,0 to 2,Gymnosporia senegalensis,95,1.5,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+860,5/30/2018,30-May-18,5,42,OTS 1423,NA,NA,B,1,0 to 2,Gymnosporia senegalensis,145,1.5,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+862,5/30/2018,30-May-18,5,42,OTS 1671,NA,NA,B,1,0 to 2,Gymnosporia senegalensis,80,1.7,0.5,0.8,0.4,0.5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+848,5/30/2018,30-May-18,5,42,OTS AN 441,NA,NA,B,1,0 to 2,Gymnosporia senegalensis,140,1.7,0.7,0.8,0.5,0.6,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+856,5/30/2018,30-May-18,5,42,OTS PV1,NA,NA,B,1,0 to 2,Gymnosporia senegalensis,160,1.7,1.5,0.7,1.0,0.8,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+850,5/30/2018,30-May-18,5,42,OTS 1X29,NA,NA,B,1,0 to 2,Senegalia nigrescens,90,1.8,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+854,5/30/2018,30-May-18,5,42,467,NA,NA,B,1,0 to 2,Gymnosporia senegalensis,150,1.9,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+853,5/30/2018,30-May-18,5,42,OTS 1428,NA,NA,B,1,0 to 2,Senegalia nigrescens,140,2.0,1.8,-,-,-,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+849,5/30/2018,30-May-18,5,42,OTS PV1,NA,NA,B,1,0 to 2,Gymnosporia senegalensis,150,2.4,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+865,5/30/2018,30-May-18,5,42,OTS 1677,NA,NA,B,2,0 to 2,Senegalia nigrescens,35,0.1,0.1,0.1,0.1,-,4,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+876,5/30/2018,30-May-18,5,42,1310,NA,NA,B,2,0 to 2,Ehrethia rigidia,20,0.3,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+873,5/30/2018,30-May-18,5,42,1307,NA,NA,B,2,0 to 2,Ehrethia rigidia,25,0.3,0.2,0.2,0.2,0.3,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+875,5/30/2018,30-May-18,5,42,1309,NA,NA,B,2,0 to 2,Ehrethia rigidia,30,0.3,0.4,0.3,-,-,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+874,5/30/2018,30-May-18,5,42,1308,NA,NA,B,2,0 to 2,Ehrethia rigidia,20,0.4,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+872,5/30/2018,30-May-18,5,42,1306,NA,NA,B,2,0 to 2,Senegalia nigrescens,35,0.7,0.5,0.5,0.4,-,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+867,5/30/2018,30-May-18,5,42,1301,NA,NA,B,2,0 to 2,Gymnosporia senegalensis,75,1.0,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+870,5/30/2018,30-May-18,5,42,1304,NA,NA,B,2,0 to 2,Gymnosporia senegalensis,70,1.2,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+869,5/30/2018,30-May-18,5,42,1303,NA,NA,B,2,0 to 2,Gymnosporia senegalensis,130,1.2,0.7,0.8,0.3,1.2,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+871,5/30/2018,30-May-18,5,42,1305,NA,NA,B,2,0 to 2,Gymnosporia senegalensis,75,1.4,0.5,-,-,-,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+863,5/30/2018,30-May-18,5,42,OTS 1672,NA,NA,B,2,0 to 2,Gymnosporia senegalensis,125,1.8,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+866,5/30/2018,30-May-18,5,42,OTS 1688,NA,NA,B,2,0 to 2,Gymnosporia senegalensis,120,2.0,0.8,0.5,-,-,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+868,5/30/2018,30-May-18,5,42,1302,NA,NA,B,2,0 to 2,Gymnosporia senegalensis,140,2.4,1.2,0.5,1.5,0.8,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+864,5/30/2018,30-May-18,5,42,OTS 1676,NA,NA,B,2,0 to 2,Gymnosporia senegalensis,180,2.6,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+879,5/30/2018,30-May-18,5,42,1313,NA,NA,B,3,0 to 2,Ehrethia rigidia,20,0.3,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+878,5/30/2018,30-May-18,5,42,1312,NA,NA,B,3,0 to 2,Ehrethia rigidia,35,0.4,0.5,0.4,-,-,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+877,5/30/2018,30-May-18,5,42,1311,NA,NA,B,3,0 to 2,Ehrethia rigidia,40,0.4,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+881,5/30/2018,30-May-18,5,42,1315,NA,NA,B,3,0 to 2,Senegalia nigrescens,35,0.6,0.4,0.5,0.3,0.3,13,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+880,5/30/2018,30-May-18,5,42,1314,NA,NA,B,3,0 to 2,Senegalia nigrescens,190,4.0,5.2,,-,-,2,20,Old,Y,40,NA,10,Old,0,0,0,N,N,N,Y,Mel
+882,5/30/2018,30-May-18,5,42,1316,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,20,0.4,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+884,5/30/2018,30-May-18,5,42,1318,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,95,0.4,0.7,0.9,0.9,0.8,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+883,5/30/2018,30-May-18,5,42,1317,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,80,0.8,0.4,-,-,-,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+885,5/30/2018,30-May-18,5,42,1319,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,140,1.8,2.2,2.2,-,-,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+886,5/30/2018,30-May-18,5,42,1320,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,120,2.3,1.5,-,-,-,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+888,5/30/2018,30-May-18,5,42,1322,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,130,2.3,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+889,5/30/2018,30-May-18,5,42,1323,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,110,2.7,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+890,5/30/2018,30-May-18,5,42,1324,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,140,2.7,-,-,-,-,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+887,5/30/2018,30-May-18,5,42,1321,NA,NA,B,4,0 to 2,Gymnosporia senegalensis,180,3.2,1.5,-,-,-,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Mel
+729,30/05/18,30-May-18,5,42,1633,NA,NA,A,1,2 to 10,Senegalia nigrescens,200.00,3.11,6.3,0,0,0,2,20,Old ,N,0,0,0,NA,0,0,0,N,N,N,Y,Sbo
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
